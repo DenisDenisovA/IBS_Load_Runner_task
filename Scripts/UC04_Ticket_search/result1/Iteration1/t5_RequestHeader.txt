@@ -1,0 +1,17 @@
+GET /cgi-bin/welcome.pl?page=search HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home
+Sec-Fetch-Dest: frame
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+User-Agent: Crashpad/0.8.0 WinHTTP/10.0.19041.2673 Windows_NT/10.0.19041.2788 (x64)
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1684516886; MTUserInfo=firstName&Rifkat&address2&Belebei&username&kiks&hash&19&lastName&Galeev%0A&address1&lastochka&creditCard&&expDate&%0A
+

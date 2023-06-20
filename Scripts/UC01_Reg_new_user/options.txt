@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\admin\Documents\GitHub\Task\Task IBS\LoadRunner\Scripts\UC01_Reg_new_user
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\admin\documents\github\task\task ibs\loadrunner\scripts\uc01_reg_new_user\\logfile.log
+c:\users\admin\documents\github\task\task ibs\loadrunner\scripts\uc01_reg_new_user\\combined_UC01_Reg_new_user.c
+c:\users\admin\documents\github\task\task ibs\loadrunner\scripts\uc01_reg_new_user\\pre_cci.c

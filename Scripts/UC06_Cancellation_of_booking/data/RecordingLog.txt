@@ -1,0 +1,260 @@
+[API Trapper      (1e0c:1828)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (2940:2a94)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (32c0:1804)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (32c0:346c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (32c0:346c)] Load Network Traffic Analyzers:
+[Network Analyzer (32c0:346c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (32c0:346c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (32c0:346c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (32c0:346c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (32c0:346c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (32c0:346c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (32c0:346c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (32c0:25a0)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 64.233.165.94:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (32c0:1864)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 142.251.1.147:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 64.233.165.84:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (32c0:3040)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (32c0:1864)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Net An. Error    (32c0:3040)] SSLAccept(ssl_id = 2357201647552 = 00000224D42AB7C0) Failed, ctx = 00000224D42B2D70, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (32c0:3040)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (32c0: 8f8)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (32c0: 8f8)] SSLAccept(ssl_id = 2357201781328 = 00000224D42CC250) Failed, ctx = 00000224D42B2D70, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (32c0: 8f8)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (32c0:25a0)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=112"   
+[Network Analyzer (32c0:25a0)]   (Sid:  1) Client -> Server @ : 469 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid:  1) Server -> Client : 206 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32c0:11a4)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (32c0:25a0)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (32c0:25a0)]   (Sid:  3) Connection Terminated (by Client)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 64.233.162.101:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 173.194.222.138:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (32c0:11a4)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (32c0:25a0)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (32c0:25a0)]   (Sid:  5) Client -> Server @ : 764 bytes (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid:  5) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid:  5) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (32c0:25a0)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (32c0:25a0)]   (Sid:  5) Client -> Server @ : 777 bytes (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid:  5) Server -> Client : 1751 bytes  (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid:  5) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  8)  PROXIED!
+[Web Request      (32c0:25a0)] "GET /favicon.ico"   
+[Network Analyzer (32c0:25a0)]   (Sid:  5) Client -> Server @ : 642 bytes (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid:  5) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 64.233.163.132:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (32c0:357c)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (32c0:357c)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (32c0:2aa0)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (32c0:2aa0)] SSLAccept(ssl_id = 2357201818768 = 00000224D42D5490) Failed, ctx = 00000224D42B2D70, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (32c0:2aa0)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 64.233.164.188:5228   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (32c0:37c0)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:3608)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 64.233.161.94:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (32c0:37c0)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Net An. Error    (32c0:3608)] SSLAccept(ssl_id = 2357202492576 = 00000224D4379CA0) Failed, ctx = 00000224D42B2D70, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (32c0:3608)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (32c0:12fc)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (32c0:12fc)] SSLAccept(ssl_id = 2357202650784 = 00000224D43A06A0) Failed, ctx = 00000224D42B2D70, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (32c0:12fc)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[API Trapper      ( 254:2448)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (32c0:25a0)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (32c0:25a0)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (32c0:25a0)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 64.233.162.139:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (32c0:25a0)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer (32c0:1908)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (32c0:1908)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[User action                 ] StartTransactionEvent 1_transaction [Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 64.233.162.95:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (32c0: ab4)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (32c0: ab4)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[API Trapper      (37ec:1e58)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (1e24: 5fc)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Web Request      (32c0:25a0)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (32c0:25a0)]   (Sid:  8) Client -> Server @ : 1032 bytes (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid:  8) Server -> Client : 872 bytes  (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid:  8) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (32c0:25a0)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (32c0:25a0)]   (Sid:  8) Client -> Server @ : 927 bytes (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid:  8) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid:  8) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (32c0:25a0)]   (Sid:  8) Connection Terminated (by Server)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 64.233.164.188:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 74.125.205.95:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (32c0:21f4)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (32c0:21f4)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:25a0)]   (Sid: 14) Client -> Server @ : 192 bytes (SSL)
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 16)  PROXIED!
+[Web Request      (32c0:25a0)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (32c0:25a0)]   (Sid: 16) Client -> Server @ : 922 bytes (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 14) Server -> Client : 1 bytes (SSL)
+[Network Analyzer (32c0:356c)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (32c0:25a0)]   (Sid: 14) Server -> Client : 67 bytes (SSL)
+[Network Analyzer (32c0:25a0)]   (Sid: 14) Server -> Client : 12 bytes (SSL)
+[Network Analyzer (32c0:356c)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (32c0:25a0)]   (Sid: 16) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 16) Server -> Client : 5 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent 1_transaction [Network Analyzer (32c0:25a0)]   (Sid: 16) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent 2_transaction [Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (32c0:25a0)]   (Sid:  1) Client -> Server @ : 580 bytes (SSL)(Service=HTTP)
+[Web Request      (32c0:25a0)] "POST /uma/v2"   
+[Network Analyzer (32c0:25a0)]   (Sid:  1) Client -> Server @ : 2550 bytes (SSL)(Service=HTTP)
+[Web Request      (32c0:25a0)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer (32c0:25a0)]   (Sid: 17) Client -> Server @ : 944 bytes (Service=HTTP)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:25a0)]   (Sid: 17) Server -> Client : 814 bytes  (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 17) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 64.233.162.101:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:25a0)]   (Sid:  1) Server -> Client : 424 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid:  1) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 64.233.161.94:443   (Service=)  (Sid= 19)  PROXIED!
+[Web Request      (32c0:25a0)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer (32c0:25a0)]   (Sid: 17) Client -> Server @ : 929 bytes (Service=HTTP)
+[Network Analyzer (32c0:300c)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (32c0:25a0)]   (Sid: 17) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 17) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (32c0: 7b8)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (32c0:25a0)]   (Sid: 17) Connection Terminated (by Server)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 20)  PROXIED!
+[Web Request      (32c0:25a0)] "POST /uma/v2"
+[Network Analyzer (32c0:25a0)]   (Sid:  1) Client -> Server @ : 589 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32c0:300c)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (32c0:25a0)]   (Sid:  1) Client -> Server @ : 16384 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid:  1) Client -> Server @ : 16384 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid:  1) Client -> Server @ : 5309 bytes (SSL)(Service=HTTP)
+[Net An. Error    (32c0: 7b8)] SSLAccept(ssl_id = 2357202721200 = 00000224D43B19B0) Failed, ctx = 00000224D42B2D70, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (32c0: 7b8)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (32c0:25a0)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer (32c0:25a0)]   (Sid: 20) Client -> Server @ : 912 bytes (Service=HTTP)
+[Web Request      (32c0:25a0)] "POST /ukm"
+[Network Analyzer (32c0:25a0)]   (Sid: 18) Client -> Server @ : 567 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 18) Client -> Server @ : 9973 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:25a0)]   (Sid: 20) Server -> Client : 4212 bytes  (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 20) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 64.233.161.94:80   (Service=)  (Sid= 21)  PROXIED!
+[Web Request      (32c0:25a0)] "POST /service/update2/json?cup2key=13:EChBsieQGiQwpUKhxfc7ZXwF0SLD_ZLhYwARDtM4SXM&cup2hreq=850258c29bdf615b32b6c0f670521254ac48cc93b005501943cdda6335cf90f9"
+[Network Analyzer (32c0:25a0)]   (Sid: 21) Client -> Server @ : 9900 bytes (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 18) Server -> Client : 454 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 18) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid:  1) Server -> Client : 586 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid:  1) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 21) Server -> Client : 1089 bytes  (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 21) Server -> Client : 994 bytes  (Service=HTTP)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (32c0:25a0)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (32c0:25a0)]   (Sid: 20) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent 2_transaction [User action                 ] StartTransactionEvent 3_transaction [Web Request      (32c0:25a0)] "POST /cgi-bin/itinerary.pl"   
+[Network Analyzer (32c0:25a0)]   (Sid: 22) Client -> Server @ : 1175 bytes (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 22) Server -> Client : 2990 bytes  (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 209.85.233.94:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (32c0:17c4)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 64.233.162.102:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (32c0:17c4)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 64.233.161.95:443   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (32c0:2030)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (32c0:2030)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (32c0:25a0)] "OPTIONS /domainreliability/upload-nel"   
+[Network Analyzer (32c0:25a0)]   (Sid: 24) Client -> Server @ : 437 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32c0: d40)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (32c0: d40)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (32c0:25a0)] "GET /v4/threatListUpdates:fetch?$req=Ch4KDGdvb2dsZWNocm9tZRIOMTEyLjAuNTYxNS4xMzgaKQgFEAEaGwoNCAUQBhgBIgMwMDEwARDGwxAaAhgElQqVgyIEIAEgAigBGikIARABGhsKDQgBEAYYASIDMDAxMAEQvZwMGgIYBCZXeQ4iBCABIAIoARopCAcQARobCg0IBxAGGAEiAzAwMTABEI3lDBoCGARSYMHnIgQgASACKAEaJwgBEAEaGQoNCAEQBhgBIgMwMDEwAxAUGgIYBB9p2EAiBCABIAIoAxooCAEQCBoaCg0IARAIGAEiAzAwMTAEEOAyGgIYBHMfjK0iBCABIAIoBBooCA8QARoaCg0IDxAGGAEiAzAwMTABEOJ0GgIYBHXJAjAiBCABIAIoARonCAoQCBoZCg0IChAIGAEiAzAwMTABEAcaAhgEv3W75CIEIAEgAigBGicICRABGhkKDQgJEAYYASIDMDAxMAEQIBoCGASYcv_5IgQgASACKAEaKAgIEAEaGgoNCAgQBhgBIgMwMDEwARDOEhoCGARmikwqIgQgASACKAEaKQgNEAEaGwoNCA0QBhgBIgMwMDEwARCF5wEaAhgEYA7vyCIEIAEgAigBGikIAxABGhsKDQgDEAYYASIDMDAxMAEQk5IMGgIYBIf1ek8iBCABIAIoARopCA4QARobCg0IDhAGGAEiAzAwMTABEKj_BhoCGAS8Wm6gIgQgASACKAEaKAgQEAEaGgoNCBAQBhgBIgMwMDEwARDuGBoCGAR4S8N5IgQgASACKAEiAggB&$ct=application/x-protobuf&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"   
+[Network Analyzer (32c0:25a0)]   (Sid: 25) Client -> Server @ : 1221 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 25) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 25) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 25) Server -> Client : 1345 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 24) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 24) Server -> Client : 411 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (32c0:25a0)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (32c0:25a0)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (32c0:25a0)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (32c0:25a0)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (32c0:25a0)]   (Sid: 15) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent 3_transaction [Network Analyzer (32c0:25a0)]   (Sid: 22) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent 4_transaction [Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[API Trapper      (1c78:34c8)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Net An. Warning  (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (32c0:346c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (32c0:346c)] Address lookup for DESKTOP-R50USQK = 192.168.1.39
+[Web Request      (32c0:25a0)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (32c0:25a0)]   (Sid: 26) Client -> Server @ : 944 bytes (Service=HTTP)
+[Network Analyzer (32c0:346c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (32c0:25a0)]   (Sid: 26) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 26) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (32c0:25a0)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (32c0:25a0)]   (Sid: 26) Client -> Server @ : 774 bytes (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 26) Server -> Client : 1743 bytes  (Service=HTTP)
+[Network Analyzer (32c0:25a0)]   (Sid: 26) Server -> Client : 5 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent 4_transaction [Network Analyzer (32c0:25a0)]   (Sid: 26) Connection Terminated (by Server)

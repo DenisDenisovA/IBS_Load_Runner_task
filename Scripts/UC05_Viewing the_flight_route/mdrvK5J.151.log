@@ -1,0 +1,74 @@
+..\\Parameters\\common_lib.h(94):     Preference</td> <td /> <td>Type of Seat</td></tr> <tr><td><label><input type="radio" name=
+..\\Parameters\\common_lib.h(94):     "seatPref" value="Aisle" />Aisle</label><br /> <label><input type="radio" name="seatPref" 
+..\\Parameters\\common_lib.h(94):     value="Window" />Window</label><br /> <label><input type="radio" name="seatPref" value="No
+..\\Parameters\\common_lib.h(94):     ne" checked="checked" />None</label><br /></td> <td /> <td><label><input type="radio" name
+..\\Parameters\\common_lib.h(94):     ="seatType" value="First" />First</label><br /> <label><input type="radio" name="seatType"
+..\\Parameters\\common_lib.h(94):      value="Business" />Business</label><br /> <label><input type="radio" name="seatType" valu
+..\\Parameters\\common_lib.h(94):     e="Coach" checked="checked" />Coach</label><br /></td></tr> <tr><td height="10" /></tr> <t
+..\\Parameters\\common_lib.h(94):     r><td align="center" colspan="4"><input type="image" name="findFlights" src="/WebTours/ima
+..\\Parameters\\common_lib.h(94):     ges/bu
+..\\Parameters\\common_lib.h(94): t=1793641ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl?page=welcome" (RelFrameId=1.2, Internal ID=895)
+..\\Parameters\\common_lib.h(94):     112\r\n
+..\\Parameters\\common_lib.h(94): t=1793641ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl?page=welcome" (RelFrameId=1.2, Internal ID=895)
+..\\Parameters\\common_lib.h(94):     \r\n
+..\\Parameters\\common_lib.h(94): t=1793641ms: 274-byte chunked response body for "http://localhost:1080/cgi-bin/reservations.pl?page=welcome" (RelFrameId=1.2, Internal ID=895)
+..\\Parameters\\common_lib.h(94):     tton_next.gif" border="0" /></td></tr></table><div><input type="hidden" name=".cgifields" 
+..\\Parameters\\common_lib.h(94):     value="roundtrip"  /><input type="hidden" name=".cgifields" value="seatType"  /><input typ
+..\\Parameters\\common_lib.h(94):     e="hidden" name=".cgifields" value="seatPref"  /></div></form>\n
+..\\Parameters\\common_lib.h(94):     </blockquote>\n
+..\\Parameters\\common_lib.h(94):     \n
+..\\Parameters\\common_lib.h(94):     </body>\n
+..\\Parameters\\common_lib.h(94):     </html>\n
+..\\Parameters\\common_lib.h(94): Found resource "http://localhost:1080/WebTours/images/button_next.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl?page=welcome"  	[MsgId: MMSG-26659]
+..\\Parameters\\common_lib.h(94): t=1793642ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(94): t=1793642ms: 752-byte request headers for "http://localhost:1080/WebTours/images/button_next.gif" (RelFrameId=, Internal ID=897)
+..\\Parameters\\common_lib.h(94):     GET /WebTours/images/button_next.gif HTTP/1.1\r\n
+..\\Parameters\\common_lib.h(94):     Referer: http://localhost:1080/cgi-bin/reservations.pl?page=welcome\r\n
+..\\Parameters\\common_lib.h(94):     Sec-Fetch-Dest: frame\r\n
+..\\Parameters\\common_lib.h(94):     Sec-Fetch-Mode: navigate\r\n
+..\\Parameters\\common_lib.h(94):     Sec-Fetch-Site: same-origin\r\n
+..\\Parameters\\common_lib.h(94):     Upgrade-Insecure-Requests: 1\r\n
+..\\Parameters\\common_lib.h(94):     sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"\r\n
+..\\Parameters\\common_lib.h(94):     sec-ch-ua-mobile: ?0\r\n
+..\\Parameters\\common_lib.h(94):     sec-ch-ua-platform: "Windows"\r\n
+..\\Parameters\\common_lib.h(94):     User-Agent: Crashpad/0.8.0 WinHTTP/10.0.19041.2673 Windows_NT/10.0.19041.2788 (x64)\r\n
+..\\Parameters\\common_lib.h(94):     Accept-Encoding: gzip, deflate, br\r\n
+..\\Parameters\\common_lib.h(94):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+..\\Parameters\\common_lib.h(94):     Accept: */*\r\n
+..\\Parameters\\common_lib.h(94):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(94):     Host: localhost:1080\r\n
+..\\Parameters\\common_lib.h(94):     Cookie: MSO=SID&1684600047; MTUserInfo=firstName&Tamara&address2&Tyla&username&mums&hash&8
+..\\Parameters\\common_lib.h(94):     3&lastName&Kukushkina%0A&address1&Kommunistic&creditCard&&expDate&%0A\r\n
+..\\Parameters\\common_lib.h(94):     \r\n
+..\\Parameters\\common_lib.h(94): t=1793642ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl?page=welcome" (RelFrameId=1.2, Internal ID=895)
+..\\Parameters\\common_lib.h(94):     0\r\n
+..\\Parameters\\common_lib.h(94):     \r\n
+..\\Parameters\\common_lib.h(94): t=1793642ms: Request done "http://localhost:1080/cgi-bin/reservations.pl?page=welcome"  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(94): t=1793643ms: 291-byte response headers for "http://localhost:1080/WebTours/images/button_next.gif" (RelFrameId=, Internal ID=897)
+..\\Parameters\\common_lib.h(94):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common_lib.h(94):     Date: Sat, 20 May 2023 16:27:34 GMT\r\n
+..\\Parameters\\common_lib.h(94):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common_lib.h(94):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+..\\Parameters\\common_lib.h(94):     ETag: "38a7100-2f6-4b654c0620500"\r\n
+..\\Parameters\\common_lib.h(94):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common_lib.h(94):     Content-Length: 758\r\n
+..\\Parameters\\common_lib.h(94):     Keep-Alive: timeout=5, max=89\r\n
+..\\Parameters\\common_lib.h(94):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(94):     Content-Type: image/gif\r\n
+..\\Parameters\\common_lib.h(94):     \r\n
+..\\Parameters\\common_lib.h(94): t=1793643ms: 758-byte response body for "http://localhost:1080/WebTours/images/button_next.gif" (RelFrameId=, Internal ID=897)
+..\\Parameters\\common_lib.h(94): t=1793643ms: Request done "http://localhost:1080/WebTours/images/button_next.gif"  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(94): Registered web_reg_find successful for "Text=<b>Find Flight<" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\common_lib.h(94): web_url("Search Flights Button") was successful, 7828 body bytes, 1307 header bytes, 43 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\common_lib.h(103): Notify: Transaction "open_flights" ended with a "Pass" status (Duration: 0,1526 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(45): Notify: Transaction "05_viewing the flight route" ended with a "Pass" status (Duration: 7,1425 Think Time: 6,0289 Wasted Time: 0,0007).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=1793644ms: Closed connection [0] to localhost:1080 after completing 11 request(s)  	[MsgId: MMSG-26000]
+t=1793644ms: Closed connection [1] to localhost:1080 after completing 12 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=103, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 0 (thread 4536), ended OK."	[MsgId: MMSG-10695]

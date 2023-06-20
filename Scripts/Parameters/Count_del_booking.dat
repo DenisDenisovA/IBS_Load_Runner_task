@@ -1,0 +1,4 @@
+del_booking1,del_booking2,del_booking3
+on,<off>,<off>
+on,on,<off>
+on,on,on

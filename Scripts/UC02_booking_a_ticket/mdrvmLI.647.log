@@ -1,0 +1,1275 @@
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 2440 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 090 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 900 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="196" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188613-151463343-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Pacha Kuznecov      <li><i>Ivan Ivanov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 3462 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  5pm : Flight 092 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  5pm : Flight 902 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="197" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188541-152231050-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Petr Petrov      <li><i>Tamara Kukushkina\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 3660 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 090 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 900 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="198" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188575-153000936-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Kolia Sidorov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 2176 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  1pm : Flight 091 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  1pm : Flight 901 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="199" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188648-153771692-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Pacha Kuznecov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 1996 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  11pm : Flight 093 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  11pm : Flight 903 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="200" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188541-154538743-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Petr Petrov      <li><i>Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 3660 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 090 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 900 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="201" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188541-155307786-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 1220 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 090 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 900 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="202" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188648-156079384-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Petr Petrov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 1996 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  11pm : Flight 093 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  11pm : Flight 903 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="203" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188648-156848615-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Petr Petrov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 1996 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  11pm : Flight 093 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  11pm : Flight 9
+..\\Parameters\\common_lib.h(208): t=4553255ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=234)
+..\\Parameters\\common_lib.h(208):     \r\n
+..\\Parameters\\common_lib.h(208):     1000\r\n
+..\\Parameters\\common_lib.h(208): t=4553255ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=234)
+..\\Parameters\\common_lib.h(208):     \r\n
+..\\Parameters\\common_lib.h(208):     1000\r\n
+..\\Parameters\\common_lib.h(208): t=4553255ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=234)
+..\\Parameters\\common_lib.h(208):     \r\n
+..\\Parameters\\common_lib.h(208):     1000\r\n
+..\\Parameters\\common_lib.h(208): t=4553255ms: 12263-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=234)
+..\\Parameters\\common_lib.h(208):     03 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="204" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188613-157617011-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 1154 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  5pm : Flight 092 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  5pm : Flight 902 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="205" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188613-158386331-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Petr Petrov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 2308 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  5pm : Flight 092 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  5pm : Flight 902 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="206" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188613-159155562-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Kolia Sidorov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 2308 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  5pm : Flight 092 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  5pm : Flight 902 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="207" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188575-159924097-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Petr Petrov      <li><i>Ivan Ivanov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 3264 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  1pm : Flight 091 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  1pm : Flight 901 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="208" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188541-160692401-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 1220 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 090 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 900 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="209" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188541-161461632-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 1220 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 090 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 900 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="210" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188541-162230863-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 1220 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 090 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 900 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="211" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188541-163000281-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Petr Petrov      <li><i>Tamara Kukushkina\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 3660 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 090 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 900 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="212" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188541-163769418-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Petr Petrov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 2440 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 090 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 900 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="213" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188648-164540999-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Pacha Kuznecov      <li><i>Ivan Ivanov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 2994 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  11pm : Flight 093 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  11pm : Flight 903 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="214" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188541-165307786-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;A Bu
+..\\Parameters\\common_lib.h(208): t=4553264ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=234)
+..\\Parameters\\common_lib.h(208):     \r\n
+..\\Parameters\\common_lib.h(208):     1000\r\n
+..\\Parameters\\common_lib.h(208): t=4553264ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=234)
+..\\Parameters\\common_lib.h(208):     \r\n
+..\\Parameters\\common_lib.h(208):     1000\r\n
+..\\Parameters\\common_lib.h(208): t=4553264ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=234)
+..\\Parameters\\common_lib.h(208):     \r\n
+..\\Parameters\\common_lib.h(208):     1000\r\n
+..\\Parameters\\common_lib.h(208): t=4553264ms: 12263-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=234)
+..\\Parameters\\common_lib.h(208):     siness class ticket for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 1220 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 090 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 900 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="215" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188648-166079384-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Pacha Kuznecov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 1996 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  11pm : Flight 093 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  11pm : Flight 903 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="216" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188613-166847958-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Pacha Kuznecov      <li><i>Tamara Kukushkina\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 3462 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  5pm : Flight 092 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  5pm : Flight 902 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="217" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188575-167616321-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Petr Petrov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 2176 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  1pm : Flight 091 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  1pm : Flight 901 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="218" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188541-168384803-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Petr Petrov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 2440 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 090 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 900 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="219" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188541-169154033-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Petr Petrov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 2440 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 090 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 900 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="220" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188648-169925538-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Pacha Kuznecov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 1996 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  11pm : Flight 093 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  11pm : Flight 903 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="221" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188575-170693328-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Pacha Kuznecov      <li><i>Tamara Kukushkina\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 3264 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  1pm : Flight 091 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  1pm : Flight 901 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="222" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188541-171461726-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Petr Petrov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 2440 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 090 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  8am : Flight 900 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="223" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188575-172231705-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Pacha Kuznecov\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common_lib.h(208):               Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):     <br/>\n
+..\\Parameters\\common_lib.h(208):               Nevskogo<br/>\n
+..\\Parameters\\common_lib.h(208):               Sibai<br/>\n
+..\\Parameters\\common_lib.h(208):               <br/>\n
+..\\Parameters\\common_lib.h(208):               Total Charge: $ 2176 <BR/> (CC: x-8888)\n
+..\\Parameters\\common_lib.h(208):           </td> </tr> </table>\n
+..\\Parameters\\common_lib.h(208):           </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="3">\n
+..\\Parameters\\common_lib.h(208):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common_lib.h(208):       01/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  1pm : Flight 091 leaves Denver  for Zurich.<br>  02/06/2023\n
+..\\Parameters\\common_lib.h(208):      :  1pm : Flight 901 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD COLSPAN="4">\n
+..\\Parameters\\common_lib.h(208):       <hr/>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):     </TR>\n
+..\\Parameters\\common_lib.h(208):     \n
+..\\Parameters\\common_lib.h(208):     <!-- Flight #1 -->\n
+..\\Parameters\\common_lib.h(208):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common_lib.h(208):     <b>\n
+..\\Parameters\\common_lib.h(208):     <label><input type="checkbox" name="224" value="on" /></label></font></b>\n
+..\\Parameters\\common_lib.h(208):     <input type="hidden" name="flightID" value="329188648-173002538-RI"  />\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign="top">\n
+..\\Parameters\\common_lib.h(208):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common_lib.h(208):           <li><i>Rezeda Ivanova      <li><i>Petr Petrov      <li><i>Rezeda Ivanova\n
+..\\Parameters\\common_lib.h(208):           <li><i></i>\n
+..\\Parameters\\common_lib.h(208):           </td></tr></table></center>\n
+..\\Parameters\\common_lib.h(208):       </TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common_lib.h(208):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common_lib.h(208):           <center>\n
+..\\Parameters\\common_lib.h(208):           <Table width="80%" 
+..\\Parameters\\common_lib.h(208): Notify: Transaction "Itinerary_Button" ended with a "Stop" status (Duration: 0,6120).	[MsgId: MMSG-16873]
+..\\Parameters\\common_lib.h(208): Notify: Transaction "02_booking_a_ticket" ended with a "Stop" status (Duration: 36,3338 Think Time: 30,0898 Wasted Time: 0,0007).	[MsgId: MMSG-16870]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+..\\Parameters\\common_lib.h(208): t=4553273ms: Closed connection [0] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(208): t=4553273ms: Closed connection [1] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=107, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 12 (thread 6040), ended OK."	[MsgId: MMSG-10695]

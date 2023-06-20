@@ -1,0 +1,54 @@
+﻿[ErrorsDataSupervisor_BasicInfo]
+NumFilters=2
+
+[AdditionalFilter0]
+DimensionType=Discrete
+InternalDimName=Event Name
+Dimension=Transaction Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=21
+UseEscapeSequence=1
+DimCount=21
+Dim_0=01_Reg_new_user
+Dim_1=02_booking_a_ticket
+Dim_2=03_Log_in_Log_out
+Dim_3=04_Ticket search
+Dim_4=05_viewing the flight route
+Dim_5=06_Cancellation_of_booking
+Dim_6=Action_Transaction
+Dim_7=Continue
+Dim_8=Filling_out_the_form
+Dim_9=find_flight
+Dim_10=flight_selection
+Dim_11=Itinerary_Button
+Dim_12=log_in
+Dim_13=log_out
+Dim_14=open_flights
+Dim_15=Open_homepage
+Dim_16=Open_sign_up_now
+Dim_17=payment_details
+Dim_18=select_booking
+Dim_19=vuser_end_Transaction
+Dim_20=vuser_init_Transaction
+LikeMode=0
+
+[AdditionalFilter1]
+DimensionType=Continuous
+InternalDimName=End Time
+Dimension=Scenario Elapsed Time
+EqualFlag=1
+DimensionTableName=Event_meter
+NumValues=1
+DimCount=2
+Dim_0=60.000000
+Dim_1=1260.000000
+
+[DimensionFunctions]
+DimeFuncCount=1
+DimeFuncType0=FuncFragment
+FunctionName_UI0=Think Time
+DimensionName_UI0=Transaction Response Time,Aminimum,Amaximum
+FunctionFragmentValues_UI0=-Include Think Time
+DimensionFragmentValues_UI0=!([Value]-[Think Time])!,!([Aminimum]-[Think Time])!,!([Amaximum]-[Think Time])!
+

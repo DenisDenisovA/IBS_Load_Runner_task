@@ -1,0 +1,11 @@
+login,password,first_name,last_name,city,street_address,departure_city,arrival_city,seating_preference,type_of_seat,credit_card,exp_date,departure_date,return_date,roundtrip
+kiks,1234,Rifkat,Galeev,Belebei,lastochka,Zurich,Denver,Aisle,First,111111,01/23,01/05/2023,02/05/2023,on
+koks,1235,Ivan,Ivanov,Ufa,Lenina,Denver,Zurich,Window,Business,222222,02/23,03/05/2023,04/05/2023,off
+kuks,1236,Sergei,Sergeevic,Barnaul,Gagarina,Paris,Portland,Aisle,First,333333,03/23,05/05/2023,06/05/2023,on
+dids,1237,Svetlana,Svetlanovna,Kazan,Oktiabra,Sydney,Denver,London,Business,444444,02/23,07/05/2023,08/05/2023,on
+dods,1238,Petr,Petrov,Samara,Oktibra,Seattle,Paris,Window,Business,555555,01/23,09/05/2023,10/05/2023,on
+duds,1239,Kolia,Sidorov,Moskow,Kreml,Zurich,Sydney,Aisle,First,666666,02/23,03/05/2023,04/05/2023,on
+mims,1241,Pacha,Kuznecov,Perm,Krasnaia,Paris,Portland,Aisle,First,777777,03/23,01/05/2023,02/05/2023,on
+moms,1242,Rezeda,Ivanova,Sibai,Nevskogo,Denver,Zurich,Window,Business,888888,04/23,01/06/2023,02/06/2023,on
+mums,1243,Tamara,Kukushkina,Tyla,Kommunistic,Sydney,Denver,London,First,999999,03/23,08/06/2023,09/06/2023,on
+vivs,1244,Yura,Kazakov,Yral,Lenina,Paris,Portland,Aisle,First,100000,05/23,07/05/2023,08/05/2023,on

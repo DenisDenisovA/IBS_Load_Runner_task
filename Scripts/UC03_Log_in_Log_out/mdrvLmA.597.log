@@ -1,0 +1,598 @@
+Virtual User Script started at: 18.05.2023 19:08:52	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (џэт 05 2021 19:27:22)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Crashpad/0.8.0 WinHTTP/10.0.19041.2673 Windows_NT/10.0.19041.2788 (x64)  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\admin\AppData\Local\Temp\lr5tmpdirfwT.70\lrcfgdKg.71\cfgkuA.82"  	[MsgId: MMSG-27141]
+Vuser directory: "C:\Users\admin\Documents\GitHub\Task\Task IBS\LoadRunner\Scripts\UC03_Log_in_Log_out"  	[MsgId: MMSG-27052]
+Vuser output directory: "C:\Users\admin\Documents\GitHub\Task\Task IBS\LoadRunner\Scripts\UC03_Log_in_Log_out"  	[MsgId: MMSG-27050]
+Operating system's current working directory: "C:\Users\admin\Documents\GitHub\Task\Task IBS\LoadRunner\Scripts\UC03_Log_in_Log_out"  	[MsgId: MMSG-27048]
+UTC (GMT) start date/time   : 2023-05-18 14:08:52  	[MsgId: MMSG-26992]
+LOCAL start date/time       : 2023-05-18 19:08:52  	[MsgId: MMSG-26991]
+Local daylight-Savings-Time : No  	[MsgId: MMSG-26990]
+Some of the Runtime Settings:  	[MsgId: MMSG-27142]
+    Download non-HTML resources: Yes  	[MsgId: MMSG-27018]
+    Verification checks: No  	[MsgId: MMSG-27017]
+    Convert from/to UTF-8: No  	[MsgId: MMSG-27016]
+    Simulate a new user each iteration: Yes  	[MsgId: MMSG-27009]
+    Non-critical item errors as warnings: Yes  	[MsgId: MMSG-27008]
+    HTTP errors as warnings: No  	[MsgId: MMSG-27007]
+    WinInet replay instead of Sockets: No  	[MsgId: MMSG-27006]
+    HTTP version: 1.1  	[MsgId: MMSG-27005]
+    Keep-Alive HTTP connections: Yes  	[MsgId: MMSG-27004]
+    Max self Meta refresh updates: 2  	[MsgId: MMSG-27003]
+    No proxy is used (direct connection to the Internet)  	[MsgId: MMSG-27171]
+    DNS caching: Yes  	[MsgId: MMSG-27035]
+    Simulate browser cache: Yes  	[MsgId: MMSG-27034]
+        Cache URLs requiring content (e.g., HTMLs): Yes  	[MsgId: MMSG-27033]
+            Additional URLs requiring content: text/xml;text/plain  	[MsgId: MMSG-27032]
+        Check for newer versions every visit to the page: No  	[MsgId: MMSG-27031]
+    Page download timeout (sec): 120  	[MsgId: MMSG-27030]
+    Resource Page Timeout is a Warning: No  	[MsgId: MMSG-27029]
+    ContentCheck enabled: Yes  	[MsgId: MMSG-27028]
+    ContentCheck script-level file: "C:\Users\admin\AppData\Local\Temp\lr5tmpdirfwT.70\lrcfgdKg.71\LrwiAedScript.xml"  	[MsgId: MMSG-27027]
+    Enable Web Page Breakdown: Yes  	[MsgId: MMSG-27026]
+    Enable connection data points: Yes  	[MsgId: MMSG-27023]
+    Process socket after reschedule: Yes  	[MsgId: MMSG-27022]
+    Snapshot on error: No  	[MsgId: MMSG-27021]
+    Define each step as a transaction: No  	[MsgId: MMSG-27020]
+    Read beyond Content-Length: No  	[MsgId: MMSG-26994]
+    Parse HTML Content-Type: TEXT  	[MsgId: MMSG-26999]
+    Graph hits per second and HTTP status codes: Yes  	[MsgId: MMSG-26998]
+    Graph response bytes per second: Yes  	[MsgId: MMSG-26997]
+    Graph pages per second: No  	[MsgId: MMSG-26996]
+    Web recorder version ID: 10  	[MsgId: MMSG-26995]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Maximum number of concurrent connections per server: 2  	[MsgId: MMSG-26989]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(3): Notify: Transaction "03_Log_in_Log_out" started.	[MsgId: MMSG-16999]
+Action.c(6): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+Action.c(6): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common_lib.h(5): Notify: Transaction "Open_homepage" started.	[MsgId: MMSG-16999]
+..\\Parameters\\common_lib.h(7): web_set_sockets_option started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(7): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common_lib.h(9): web_add_cookie started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(9): web_add_cookie was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common_lib.h(11): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(11): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+..\\Parameters\\common_lib.h(11): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+..\\Parameters\\common_lib.h(11): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common_lib.h(14): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(14): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+..\\Parameters\\common_lib.h(14): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+..\\Parameters\\common_lib.h(14): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common_lib.h(17): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(17): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+..\\Parameters\\common_lib.h(17): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+..\\Parameters\\common_lib.h(17): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common_lib.h(20): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(20): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+..\\Parameters\\common_lib.h(20): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+..\\Parameters\\common_lib.h(20): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common_lib.h(23): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(23): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+..\\Parameters\\common_lib.h(23): "sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+..\\Parameters\\common_lib.h(23): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common_lib.h(26): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(26): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+..\\Parameters\\common_lib.h(26): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+..\\Parameters\\common_lib.h(26): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common_lib.h(29): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(29): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+..\\Parameters\\common_lib.h(29): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+..\\Parameters\\common_lib.h(29): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common_lib.h(32): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(32): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common_lib.h(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(35): t=768ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(35): t=768ms: Connected socket [0] from 127.0.0.1:50433 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(35): t=768ms: 592-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=1)
+..\\Parameters\\common_lib.h(35):     GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1\r\n
+..\\Parameters\\common_lib.h(35):     Referer: http://localhost:1080/WebTours/\r\n
+..\\Parameters\\common_lib.h(35):     Sec-Fetch-Dest: frame\r\n
+..\\Parameters\\common_lib.h(35):     Sec-Fetch-Mode: navigate\r\n
+..\\Parameters\\common_lib.h(35):     Sec-Fetch-Site: same-origin\r\n
+..\\Parameters\\common_lib.h(35):     Upgrade-Insecure-Requests: 1\r\n
+..\\Parameters\\common_lib.h(35):     sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"\r\n
+..\\Parameters\\common_lib.h(35):     sec-ch-ua-mobile: ?0\r\n
+..\\Parameters\\common_lib.h(35):     sec-ch-ua-platform: "Windows"\r\n
+..\\Parameters\\common_lib.h(35):     User-Agent: Crashpad/0.8.0 WinHTTP/10.0.19041.2673 Windows_NT/10.0.19041.2788 (x64)\r\n
+..\\Parameters\\common_lib.h(35):     Accept-Encoding: gzip, deflate, br\r\n
+..\\Parameters\\common_lib.h(35):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+..\\Parameters\\common_lib.h(35):     Accept: */*\r\n
+..\\Parameters\\common_lib.h(35):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(35):     Host: localhost:1080\r\n
+..\\Parameters\\common_lib.h(35):     Cookie: MSO=SID&1683018068\r\n
+..\\Parameters\\common_lib.h(35):     \r\n
+..\\Parameters\\common_lib.h(35): t=809ms: 328-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=1)
+..\\Parameters\\common_lib.h(35):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common_lib.h(35):     Date: Thu, 18 May 2023 14:08:52 GMT\r\n
+..\\Parameters\\common_lib.h(35):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common_lib.h(35):     Set-Cookie: MSO=SID&1684418932; path=/\r\n
+..\\Parameters\\common_lib.h(35):     Set-Cookie: MTUserInfo=; path=/; expires=Wed, 17-May-2023 14:08:52 GMT\r\n
+..\\Parameters\\common_lib.h(35):     Keep-Alive: timeout=5, max=100\r\n
+..\\Parameters\\common_lib.h(35):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(35):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common_lib.h(35):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common_lib.h(35):     \r\n
+..\\Parameters\\common_lib.h(35): t=810ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=1)
+..\\Parameters\\common_lib.h(35):     2ae\r\n
+..\\Parameters\\common_lib.h(35): t=810ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=1)
+..\\Parameters\\common_lib.h(35):     \r\n
+..\\Parameters\\common_lib.h(35): t=810ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=1)
+..\\Parameters\\common_lib.h(35):     <!-- \n
+..\\Parameters\\common_lib.h(35):      A Session ID has been created and loaded into a cookie called MSO.\n
+..\\Parameters\\common_lib.h(35):      Also, the server options have been loaded into the cookie called\n
+..\\Parameters\\common_lib.h(35):      MSO as well.  The server options can be set via the Admin page.\n
+..\\Parameters\\common_lib.h(35):      --->\n
+..\\Parameters\\common_lib.h(35):     \n
+..\\Parameters\\common_lib.h(35):     <html>\n
+..\\Parameters\\common_lib.h(35):     <title>Web Tours</title>\n
+..\\Parameters\\common_lib.h(35):        <!-- Frame Set -->\n
+..\\Parameters\\common_lib.h(35):        <frameset cols="160,*" border="1" frameborder="1">\n
+..\\Parameters\\common_lib.h(35):           <!-- Navigation Frame -->\n
+..\\Parameters\\common_lib.h(35):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+..\\Parameters\\common_lib.h(35):                 noresize="noresize" scrolling="auto"/>\n
+..\\Parameters\\common_lib.h(35):           <!-- Home Frame -->\n
+..\\Parameters\\common_lib.h(35):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+..\\Parameters\\common_lib.h(35):                 noresize="noresize" scrolling="auto"/>\n
+..\\Parameters\\common_lib.h(35):        </frameset>\n
+..\\Parameters\\common_lib.h(35):     </html>\n
+..\\Parameters\\common_lib.h(35):     \n
+..\\Parameters\\common_lib.h(35):     </body>\n
+..\\Parameters\\common_lib.h(35):     </html>
+..\\Parameters\\common_lib.h(35): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+..\\Parameters\\common_lib.h(35): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+..\\Parameters\\common_lib.h(35): t=811ms: Connecting [1] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(35): t=811ms: Connected socket [1] from 127.0.0.1:50434 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(35): t=811ms: 605-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=2)
+..\\Parameters\\common_lib.h(35):     GET /cgi-bin/nav.pl?in=home HTTP/1.1\r\n
+..\\Parameters\\common_lib.h(35):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=true\r\n
+..\\Parameters\\common_lib.h(35):     Sec-Fetch-Dest: frame\r\n
+..\\Parameters\\common_lib.h(35):     Sec-Fetch-Mode: navigate\r\n
+..\\Parameters\\common_lib.h(35):     Sec-Fetch-Site: same-origin\r\n
+..\\Parameters\\common_lib.h(35):     Upgrade-Insecure-Requests: 1\r\n
+..\\Parameters\\common_lib.h(35):     sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"\r\n
+..\\Parameters\\common_lib.h(35):     sec-ch-ua-mobile: ?0\r\n
+..\\Parameters\\common_lib.h(35):     sec-ch-ua-platform: "Windows"\r\n
+..\\Parameters\\common_lib.h(35):     User-Agent: Crashpad/0.8.0 WinHTTP/10.0.19041.2673 Windows_NT/10.0.19041.2788 (x64)\r\n
+..\\Parameters\\common_lib.h(35):     Accept-Encoding: gzip, deflate, br\r\n
+..\\Parameters\\common_lib.h(35):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+..\\Parameters\\common_lib.h(35):     Accept: */*\r\n
+..\\Parameters\\common_lib.h(35):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(35):     Host: localhost:1080\r\n
+..\\Parameters\\common_lib.h(35):     Cookie: MSO=SID&1684418932\r\n
+..\\Parameters\\common_lib.h(35):     \r\n
+..\\Parameters\\common_lib.h(35): t=813ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=1)
+..\\Parameters\\common_lib.h(35):     0\r\n
+..\\Parameters\\common_lib.h(35):     \r\n
+..\\Parameters\\common_lib.h(35): t=813ms: Request done "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(35): Search registration for "userSession" parameter is filtered by "Request URL"  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(35): t=813ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(35): t=813ms: 601-byte request headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=3)
+..\\Parameters\\common_lib.h(35):     GET /WebTours/home.html HTTP/1.1\r\n
+..\\Parameters\\common_lib.h(35):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=true\r\n
+..\\Parameters\\common_lib.h(35):     Sec-Fetch-Dest: frame\r\n
+..\\Parameters\\common_lib.h(35):     Sec-Fetch-Mode: navigate\r\n
+..\\Parameters\\common_lib.h(35):     Sec-Fetch-Site: same-origin\r\n
+..\\Parameters\\common_lib.h(35):     Upgrade-Insecure-Requests: 1\r\n
+..\\Parameters\\common_lib.h(35):     sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"\r\n
+..\\Parameters\\common_lib.h(35):     sec-ch-ua-mobile: ?0\r\n
+..\\Parameters\\common_lib.h(35):     sec-ch-ua-platform: "Windows"\r\n
+..\\Parameters\\common_lib.h(35):     User-Agent: Crashpad/0.8.0 WinHTTP/10.0.19041.2673 Windows_NT/10.0.19041.2788 (x64)\r\n
+..\\Parameters\\common_lib.h(35):     Accept-Encoding: gzip, deflate, br\r\n
+..\\Parameters\\common_lib.h(35):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+..\\Parameters\\common_lib.h(35):     Accept: */*\r\n
+..\\Parameters\\common_lib.h(35):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(35):     Host: localhost:1080\r\n
+..\\Parameters\\common_lib.h(35):     Cookie: MSO=SID&1684418932\r\n
+..\\Parameters\\common_lib.h(35):     \r\n
+..\\Parameters\\common_lib.h(35): t=855ms: 256-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=2)
+..\\Parameters\\common_lib.h(35):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common_lib.h(35):     Date: Thu, 18 May 2023 14:08:52 GMT\r\n
+..\\Parameters\\common_lib.h(35):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common_lib.h(35):     Expires: Wed, 17 May 2023 14:08:52 GMT\r\n
+..\\Parameters\\common_lib.h(35):     Keep-Alive: timeout=5, max=100\r\n
+..\\Parameters\\common_lib.h(35):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(35):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common_lib.h(35):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common_lib.h(35):     \r\n
+..\\Parameters\\common_lib.h(35): t=855ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=2)
+..\\Parameters\\common_lib.h(35):     5cf\r\n
+..\\Parameters\\common_lib.h(35): t=856ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=2)
+..\\Parameters\\common_lib.h(35):     \r\n
+..\\Parameters\\common_lib.h(35): t=856ms: 1487-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=2)
+..\\Parameters\\common_lib.h(35):     <!DOCTYPE html\n
+..\\Parameters\\common_lib.h(35):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\Parameters\\common_lib.h(35):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\Parameters\\common_lib.h(35):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\Parameters\\common_lib.h(35):     <head>\n
+..\\Parameters\\common_lib.h(35):     <title>Web Tours Navigation Bar</title>\n
+..\\Parameters\\common_lib.h(35):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\Parameters\\common_lib.h(35):     </head>\n
+..\\Parameters\\common_lib.h(35):     <body bgcolor="#E0E7F1">\n
+..\\Parameters\\common_lib.h(35):     <style>\n
+..\\Parameters\\common_lib.h(35):     blockquote {font-family: tahoma; font-size : 10pt}\n
+..\\Parameters\\common_lib.h(35):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\Parameters\\common_lib.h(35):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common_lib.h(35):     small {font-family: tahoma; font-size : 8pt}\n
+..\\Parameters\\common_lib.h(35):     </style>\n
+..\\Parameters\\common_lib.h(35):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+..\\Parameters\\common_lib.h(35):     <input type="hidden" name="userSession" value="136445.43799109HAVitVcpcVzzzzzHtcVVAptHDD"/
+..\\Parameters\\common_lib.h(35):     >\n
+..\\Parameters\\common_lib.h(35):     <table border="0"><tr><td>&nbsp;</td>\n
+..\\Parameters\\common_lib.h(35):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\common_lib.h(35):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common_lib.h(35):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\common_lib.h(35):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common_lib.h(35):     <td><small>&nbsp;Username</small></td></tr>\n
+..\\Parameters\\common_lib.h(35):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common_lib.h(35):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+..\\Parameters\\common_lib.h(35):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common_lib.h(35):     <td><small>&nbsp;Password</small></td>\n
+..\\Parameters\\common_lib.h(35):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common_lib.h(35):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+..\\Parameters\\common_lib.h(35):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common_lib.h(35):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\common_lib.h(35):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common_lib.h(35):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+..\\Parameters\\common_lib.h(35):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+..\\Parameters\\common_lib.h(35):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+..\\Parameters\\common_lib.h(35):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+..\\Parameters\\common_lib.h(35):     </form>\n
+..\\Parameters\\common_lib.h(35):     \n
+..\\Parameters\\common_lib.h(35):     </body>\n
+..\\Parameters\\common_lib.h(35):     </html>\n
+..\\Parameters\\common_lib.h(35): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+..\\Parameters\\common_lib.h(35): t=857ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=2)
+..\\Parameters\\common_lib.h(35):     0\r\n
+..\\Parameters\\common_lib.h(35):     \r\n
+..\\Parameters\\common_lib.h(35): t=857ms: Request done "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(35): Notify: Saving Parameter "userSession = 136445.43799109HAVitVcpcVzzzzzHtcVVAptHDD".	[MsgId: MMSG-13798]
+..\\Parameters\\common_lib.h(35): t=878ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(35): t=878ms: 603-byte request headers for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=4)
+..\\Parameters\\common_lib.h(35):     GET /WebTours/images/mer_login.gif HTTP/1.1\r\n
+..\\Parameters\\common_lib.h(35):     Referer: http://localhost:1080/cgi-bin/nav.pl?in=home\r\n
+..\\Parameters\\common_lib.h(35):     Sec-Fetch-Dest: frame\r\n
+..\\Parameters\\common_lib.h(35):     Sec-Fetch-Mode: navigate\r\n
+..\\Parameters\\common_lib.h(35):     Sec-Fetch-Site: same-origin\r\n
+..\\Parameters\\common_lib.h(35):     Upgrade-Insecure-Requests: 1\r\n
+..\\Parameters\\common_lib.h(35):     sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"\r\n
+..\\Parameters\\common_lib.h(35):     sec-ch-ua-mobile: ?0\r\n
+..\\Parameters\\common_lib.h(35):     sec-ch-ua-platform: "Windows"\r\n
+..\\Parameters\\common_lib.h(35):     User-Agent: Crashpad/0.8.0 WinHTTP/10.0.19041.2673 Windows_NT/10.0.19041.2788 (x64)\r\n
+..\\Parameters\\common_lib.h(35):     Accept-Encoding: gzip, deflate, br\r\n
+..\\Parameters\\common_lib.h(35):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+..\\Parameters\\common_lib.h(35):     Accept: */*\r\n
+..\\Parameters\\common_lib.h(35):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(35):     Host: localhost:1080\r\n
+..\\Parameters\\common_lib.h(35):     Cookie: MSO=SID&1684418932\r\n
+..\\Parameters\\common_lib.h(35):     \r\n
+..\\Parameters\\common_lib.h(35): t=878ms: 298-byte response headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=3)
+..\\Parameters\\common_lib.h(35):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common_lib.h(35):     Date: Thu, 18 May 2023 14:08:52 GMT\r\n
+..\\Parameters\\common_lib.h(35):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common_lib.h(35):     Last-Modified: Mon, 27 May 2013 11:20:22 GMT\r\n
+..\\Parameters\\common_lib.h(35):     ETag: "3000000008554-551-4ddb1559ac980"\r\n
+..\\Parameters\\common_lib.h(35):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common_lib.h(35):     Content-Length: 1361\r\n
+..\\Parameters\\common_lib.h(35):     Keep-Alive: timeout=5, max=99\r\n
+..\\Parameters\\common_lib.h(35):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(35):     Content-Type: text/html\r\n
+..\\Parameters\\common_lib.h(35):     \r\n
+..\\Parameters\\common_lib.h(35): t=878ms: 1361-byte response body for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=3)
+..\\Parameters\\common_lib.h(35):     <HTML>\n
+..\\Parameters\\common_lib.h(35):     <HEAD>\n
+..\\Parameters\\common_lib.h(35):     \t<title>Web Tours</title>\n
+..\\Parameters\\common_lib.h(35):     </HEAD>\n
+..\\Parameters\\common_lib.h(35):     <style>\n
+..\\Parameters\\common_lib.h(35):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\Parameters\\common_lib.h(35):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+..\\Parameters\\common_lib.h(35):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\Parameters\\common_lib.h(35):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common_lib.h(35):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\Parameters\\common_lib.h(35):     N: none}\n
+..\\Parameters\\common_lib.h(35):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\Parameters\\common_lib.h(35):     CORATION: underline}\n
+..\\Parameters\\common_lib.h(35):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common_lib.h(35):     </style>\n
+..\\Parameters\\common_lib.h(35):     <body bgcolor="#e0e7f1">\n
+..\\Parameters\\common_lib.h(35):     <BR/>\n
+..\\Parameters\\common_lib.h(35):     <BR/>\n
+..\\Parameters\\common_lib.h(35):     <BR/>\n
+..\\Parameters\\common_lib.h(35):     <br/>\n
+..\\Parameters\\common_lib.h(35):     <table border="0">\n
+..\\Parameters\\common_lib.h(35):     <tr><td></td></tr>\n
+..\\Parameters\\common_lib.h(35):     <TR><TD></TD></TR>\n
+..\\Parameters\\common_lib.h(35):     <TR><TD>\n
+..\\Parameters\\common_lib.h(35):     <blockquote>\n
+..\\Parameters\\common_lib.h(35):     <H1><b>Web Tours</b></H1>\n
+..\\Parameters\\common_lib.h(35):     Welcome to the Web Tours site.\n
+..\\Parameters\\common_lib.h(35):     <br/>\n
+..\\Parameters\\common_lib.h(35):     To make reservations,please enter your account information to the left.\n
+..\\Parameters\\common_lib.h(35):     <br/>\n
+..\\Parameters\\common_lib.h(35):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+..\\Parameters\\common_lib.h(35):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+..\\Parameters\\common_lib.h(35):     <br/>\n
+..\\Parameters\\common_lib.h(35):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+..\\Parameters\\common_lib.h(35):     tration</b></A> link.\n
+..\\Parameters\\common_lib.h(35):     <br/><br/><br/><br/><br/><br/>\n
+..\\Parameters\\common_lib.h(35):     <br/><small>\n
+..\\Parameters\\common_lib.h(35):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+..\\Parameters\\common_lib.h(35):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+..\\Parameters\\common_lib.h(35):     </small>\n
+..\\Parameters\\common_lib.h(35):     </blockquote></TD>\n
+..\\Parameters\\common_lib.h(35):     <TD></TD></TR>\n
+..\\Parameters\\common_lib.h(35):     </table>\n
+..\\Parameters\\common_lib.h(35):     </body>\n
+..\\Parameters\\common_lib.h(35):     </HTML>\n
+..\\Parameters\\common_lib.h(35): t=879ms: Request done "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(35): t=906ms: 297-byte response headers for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=4)
+..\\Parameters\\common_lib.h(35):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common_lib.h(35):     Date: Thu, 18 May 2023 14:08:52 GMT\r\n
+..\\Parameters\\common_lib.h(35):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common_lib.h(35):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+..\\Parameters\\common_lib.h(35):     ETag: "3000000008a28-2a7-4b654c0620500"\r\n
+..\\Parameters\\common_lib.h(35):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common_lib.h(35):     Content-Length: 679\r\n
+..\\Parameters\\common_lib.h(35):     Keep-Alive: timeout=5, max=99\r\n
+..\\Parameters\\common_lib.h(35):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(35):     Content-Type: image/gif\r\n
+..\\Parameters\\common_lib.h(35):     \r\n
+..\\Parameters\\common_lib.h(35): t=906ms: 679-byte response body for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=4)
+..\\Parameters\\common_lib.h(35): t=906ms: Request done "http://localhost:1080/WebTours/images/mer_login.gif"  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(35): Registered web_reg_find successful for "Text=<title>Web Tours</title>" (count=2)  	[MsgId: MMSG-26364]
+..\\Parameters\\common_lib.h(35): web_url("welcome.pl") was successful, 4213 body bytes, 1179 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\common_lib.h(45): Notify: Transaction "Open_homepage" ended with a "Pass" status (Duration: 0,1408 Wasted Time: 0,0204).	[MsgId: MMSG-16871]
+Action.c(19): lr_think_time: 5,00 seconds.	[MsgId: MMSG-15948]
+..\\Parameters\\common_lib.h(52): Notify: Transaction "log_in" started.	[MsgId: MMSG-16999]
+..\\Parameters\\common_lib.h(54): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(54): An unrecognized header ("Origin") is being added  	[MsgId: MMSG-26595]
+..\\Parameters\\common_lib.h(54): "Origin: http://localhost:1080" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+..\\Parameters\\common_lib.h(54): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common_lib.h(57): web_add_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(57): An unrecognized header ("Sec-Fetch-User") is being added  	[MsgId: MMSG-26595]
+..\\Parameters\\common_lib.h(57): "Sec-Fetch-User: ?1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+..\\Parameters\\common_lib.h(57): web_add_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common_lib.h(60): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(60): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common_lib.h(62): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(62): Notify: Parameter Substitution: parameter "login" =  "kiks"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(62): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common_lib.h(64): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(64): Notify: Parameter Substitution: parameter "userSession" =  "136445.43799109HAVitVcpcVzzzzzHtcVVAptHDD"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(64): Notify: Parameter Substitution: parameter "login" =  "kiks"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(64): Notify: Next row for parameter password = 1 [table  = password].	[MsgId: MMSG-13876]
+..\\Parameters\\common_lib.h(64): Notify: Parameter Substitution: parameter "password" =  "1234"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(64): t=5917ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(64): t=5917ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(64): t=5917ms: Connected socket [0] from 127.0.0.1:50454 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(64): t=5917ms: 712-byte request headers for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=5)
+..\\Parameters\\common_lib.h(64):     POST /cgi-bin/login.pl HTTP/1.1\r\n
+..\\Parameters\\common_lib.h(64):     Content-Type: application/x-www-form-urlencoded\r\n
+..\\Parameters\\common_lib.h(64):     Referer: http://localhost:1080/cgi-bin/nav.pl?in=home\r\n
+..\\Parameters\\common_lib.h(64):     Origin: http://localhost:1080\r\n
+..\\Parameters\\common_lib.h(64):     Sec-Fetch-Dest: frame\r\n
+..\\Parameters\\common_lib.h(64):     Sec-Fetch-Mode: navigate\r\n
+..\\Parameters\\common_lib.h(64):     Sec-Fetch-Site: same-origin\r\n
+..\\Parameters\\common_lib.h(64):     Upgrade-Insecure-Requests: 1\r\n
+..\\Parameters\\common_lib.h(64):     sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"\r\n
+..\\Parameters\\common_lib.h(64):     sec-ch-ua-mobile: ?0\r\n
+..\\Parameters\\common_lib.h(64):     sec-ch-ua-platform: "Windows"\r\n
+..\\Parameters\\common_lib.h(64):     Sec-Fetch-User: ?1\r\n
+..\\Parameters\\common_lib.h(64):     User-Agent: Crashpad/0.8.0 WinHTTP/10.0.19041.2673 Windows_NT/10.0.19041.2788 (x64)\r\n
+..\\Parameters\\common_lib.h(64):     Accept-Encoding: gzip, deflate, br\r\n
+..\\Parameters\\common_lib.h(64):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+..\\Parameters\\common_lib.h(64):     Accept: */*\r\n
+..\\Parameters\\common_lib.h(64):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(64):     Host: localhost:1080\r\n
+..\\Parameters\\common_lib.h(64):     Cookie: MSO=SID&1684418932\r\n
+..\\Parameters\\common_lib.h(64):     Content-Length: 120\r\n
+..\\Parameters\\common_lib.h(64):     \r\n
+..\\Parameters\\common_lib.h(64): t=5918ms: 120-byte request body for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=5)
+..\\Parameters\\common_lib.h(64):     userSession=136445.43799109HAVitVcpcVzzzzzHtcVVAptHDD&username=kiks&password=1234&login.x=
+..\\Parameters\\common_lib.h(64):     53&login.y=10&JSFormSubmit=off
+..\\Parameters\\common_lib.h(64): t=5918ms: Inactive socket [1] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(64): t=5918ms: Closed connection [1] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(64): t=5958ms: 229-byte response headers for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=5)
+..\\Parameters\\common_lib.h(64):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common_lib.h(64):     Date: Thu, 18 May 2023 14:08:57 GMT\r\n
+..\\Parameters\\common_lib.h(64):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common_lib.h(64):     Expires: 5s\r\n
+..\\Parameters\\common_lib.h(64):     Keep-Alive: timeout=5, max=100\r\n
+..\\Parameters\\common_lib.h(64):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(64):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common_lib.h(64):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common_lib.h(64):     \r\n
+..\\Parameters\\common_lib.h(64): t=5958ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=5)
+..\\Parameters\\common_lib.h(64):     1c4\r\n
+..\\Parameters\\common_lib.h(64): t=5958ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=5)
+..\\Parameters\\common_lib.h(64):     \r\n
+..\\Parameters\\common_lib.h(64): t=5958ms: 452-byte chunked response body for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=5)
+..\\Parameters\\common_lib.h(64):     <!--\n
+..\\Parameters\\common_lib.h(64):     User password was incorrect.  Prompt the user to fix password or sign-up...\n
+..\\Parameters\\common_lib.h(64):     --->\n
+..\\Parameters\\common_lib.h(64):     \n
+..\\Parameters\\common_lib.h(64):     <html>\n
+..\\Parameters\\common_lib.h(64):     <title>Web Tours</title>\n
+..\\Parameters\\common_lib.h(64):     <frameset cols="160,*" border=1 frameborder=1>\n
+..\\Parameters\\common_lib.h(64):     <frame src="nav.pl?username=kiks&password=1234" name="navbar" marginheight="2" marginwidth
+..\\Parameters\\common_lib.h(64):     ="2" noresize="noresize" scrolling="auto"/>\n
+..\\Parameters\\common_lib.h(64):     <frame src="error.pl?error=badPassword" name="info" marginheight="2" marginwidth="2" nores
+..\\Parameters\\common_lib.h(64):     ize="noresize" scrolling="auto"/>\n
+..\\Parameters\\common_lib.h(64):     </frameset>\n
+..\\Parameters\\common_lib.h(64):     \n
+..\\Parameters\\common_lib.h(64):     </body>\n
+..\\Parameters\\common_lib.h(64):     </html>
+..\\Parameters\\common_lib.h(64): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?username=kiks&password=1234" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+..\\Parameters\\common_lib.h(64): Detected non-resource "http://localhost:1080/cgi-bin/error.pl?error=badPassword" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+..\\Parameters\\common_lib.h(64): t=5959ms: Connecting [1] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(64): t=5959ms: Connected socket [1] from 127.0.0.1:50455 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(64): t=5959ms: 661-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?username=kiks&password=1234" (RelFrameId=1.1, Internal ID=6)
+..\\Parameters\\common_lib.h(64):     GET /cgi-bin/nav.pl?username=kiks&password=1234 HTTP/1.1\r\n
+..\\Parameters\\common_lib.h(64):     Referer: http://localhost:1080/cgi-bin/login.pl\r\n
+..\\Parameters\\common_lib.h(64):     Origin: http://localhost:1080\r\n
+..\\Parameters\\common_lib.h(64):     Sec-Fetch-Dest: frame\r\n
+..\\Parameters\\common_lib.h(64):     Sec-Fetch-Mode: navigate\r\n
+..\\Parameters\\common_lib.h(64):     Sec-Fetch-Site: same-origin\r\n
+..\\Parameters\\common_lib.h(64):     Upgrade-Insecure-Requests: 1\r\n
+..\\Parameters\\common_lib.h(64):     sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"\r\n
+..\\Parameters\\common_lib.h(64):     sec-ch-ua-mobile: ?0\r\n
+..\\Parameters\\common_lib.h(64):     sec-ch-ua-platform: "Windows"\r\n
+..\\Parameters\\common_lib.h(64):     Sec-Fetch-User: ?1\r\n
+..\\Parameters\\common_lib.h(64):     User-Agent: Crashpad/0.8.0 WinHTTP/10.0.19041.2673 Windows_NT/10.0.19041.2788 (x64)\r\n
+..\\Parameters\\common_lib.h(64):     Accept-Encoding: gzip, deflate, br\r\n
+..\\Parameters\\common_lib.h(64):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+..\\Parameters\\common_lib.h(64):     Accept: */*\r\n
+..\\Parameters\\common_lib.h(64):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(64):     Host: localhost:1080\r\n
+..\\Parameters\\common_lib.h(64):     Cookie: MSO=SID&1684418932\r\n
+..\\Parameters\\common_lib.h(64):     \r\n
+..\\Parameters\\common_lib.h(64): t=5960ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=5)
+..\\Parameters\\common_lib.h(64):     0\r\n
+..\\Parameters\\common_lib.h(64):     \r\n
+..\\Parameters\\common_lib.h(64): t=5960ms: Request done "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(64): t=5960ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(64): t=5960ms: 653-byte request headers for "http://localhost:1080/cgi-bin/error.pl?error=badPassword" (RelFrameId=1.2, Internal ID=7)
+..\\Parameters\\common_lib.h(64):     GET /cgi-bin/error.pl?error=badPassword HTTP/1.1\r\n
+..\\Parameters\\common_lib.h(64):     Referer: http://localhost:1080/cgi-bin/login.pl\r\n
+..\\Parameters\\common_lib.h(64):     Origin: http://localhost:1080\r\n
+..\\Parameters\\common_lib.h(64):     Sec-Fetch-Dest: frame\r\n
+..\\Parameters\\common_lib.h(64):     Sec-Fetch-Mode: navigate\r\n
+..\\Parameters\\common_lib.h(64):     Sec-Fetch-Site: same-origin\r\n
+..\\Parameters\\common_lib.h(64):     Upgrade-Insecure-Requests: 1\r\n
+..\\Parameters\\common_lib.h(64):     sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"\r\n
+..\\Parameters\\common_lib.h(64):     sec-ch-ua-mobile: ?0\r\n
+..\\Parameters\\common_lib.h(64):     sec-ch-ua-platform: "Windows"\r\n
+..\\Parameters\\common_lib.h(64):     Sec-Fetch-User: ?1\r\n
+..\\Parameters\\common_lib.h(64):     User-Agent: Crashpad/0.8.0 WinHTTP/10.0.19041.2673 Windows_NT/10.0.19041.2788 (x64)\r\n
+..\\Parameters\\common_lib.h(64):     Accept-Encoding: gzip, deflate, br\r\n
+..\\Parameters\\common_lib.h(64):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+..\\Parameters\\common_lib.h(64):     Accept: */*\r\n
+..\\Parameters\\common_lib.h(64):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(64):     Host: localhost:1080\r\n
+..\\Parameters\\common_lib.h(64):     Cookie: MSO=SID&1684418932\r\n
+..\\Parameters\\common_lib.h(64):     \r\n
+..\\Parameters\\common_lib.h(64): t=6000ms: 256-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?username=kiks&password=1234" (RelFrameId=1.1, Internal ID=6)
+..\\Parameters\\common_lib.h(64):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common_lib.h(64):     Date: Thu, 18 May 2023 14:08:57 GMT\r\n
+..\\Parameters\\common_lib.h(64):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common_lib.h(64):     Expires: Wed, 17 May 2023 14:08:57 GMT\r\n
+..\\Parameters\\common_lib.h(64):     Keep-Alive: timeout=5, max=100\r\n
+..\\Parameters\\common_lib.h(64):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(64):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common_lib.h(64):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common_lib.h(64):     \r\n
+..\\Parameters\\common_lib.h(64): t=6000ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?username=kiks&password=1234" (RelFrameId=1.1, Internal ID=6)
+..\\Parameters\\common_lib.h(64):     5d7\r\n
+..\\Parameters\\common_lib.h(64): t=6000ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?username=kiks&password=1234" (RelFrameId=1.1, Internal ID=6)
+..\\Parameters\\common_lib.h(64):     \r\n
+..\\Parameters\\common_lib.h(64): t=6000ms: 1495-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?username=kiks&password=1234" (RelFrameId=1.1, Internal ID=6)
+..\\Parameters\\common_lib.h(64):     <!DOCTYPE html\n
+..\\Parameters\\common_lib.h(64):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\Parameters\\common_lib.h(64):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\Parameters\\common_lib.h(64):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\Parameters\\common_lib.h(64):     <head>\n
+..\\Parameters\\common_lib.h(64):     <title>Web Tours Navigation Bar</title>\n
+..\\Parameters\\common_lib.h(64):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\Parameters\\common_lib.h(64):     </head>\n
+..\\Parameters\\common_lib.h(64):     <body bgcolor="#E0E7F1">\n
+..\\Parameters\\common_lib.h(64):     <style>\n
+..\\Parameters\\common_lib.h(64):     blockquote {font-family: tahoma; font-size : 10pt}\n
+..\\Parameters\\common_lib.h(64):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\Parameters\\common_lib.h(64):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common_lib.h(64):     small {font-family: tahoma; font-size : 8pt}\n
+..\\Parameters\\common_lib.h(64):     </style>\n
+..\\Parameters\\common_lib.h(64):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+..\\Parameters\\common_lib.h(64):     <input type="hidden" name="userSession" value="136445.43799109HAVitVcpcVzzzzzHtcVVAptHDD"/
+..\\Parameters\\common_lib.h(64):     >\n
+..\\Parameters\\common_lib.h(64):     <table border="0"><tr><td>&nbsp;</td>\n
+..\\Parameters\\common_lib.h(64):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\common_lib.h(64):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common_lib.h(64):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\common_lib.h(64):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common_lib.h(64):     <td><small>&nbsp;Username</small></td></tr>\n
+..\\Parameters\\common_lib.h(64):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common_lib.h(64):     <td><input type="text" name="username" value="kiks" size="14" maxlength="14"/></td></tr>\n
+..\\Parameters\\common_lib.h(64):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common_lib.h(64):     <td><small>&nbsp;Password</small></td>\n
+..\\Parameters\\common_lib.h(64):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common_lib.h(64):     <td><input type="password" name="password" value="1234" size="14" maxlength="14"/></td></t
+..\\Parameters\\common_lib.h(64):     r>\n
+..\\Parameters\\common_lib.h(64):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common_lib.h(64):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\common_lib.h(64):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common_lib.h(64):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+..\\Parameters\\common_lib.h(64):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+..\\Parameters\\common_lib.h(64):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+..\\Parameters\\common_lib.h(64):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+..\\Parameters\\common_lib.h(64):     </form>\n
+..\\Parameters\\common_lib.h(64):     \n
+..\\Parameters\\common_lib.h(64):     </body>\n
+..\\Parameters\\common_lib.h(64):     </html>\n
+..\\Parameters\\common_lib.h(64): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\common_lib.h(64): t=6002ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?username=kiks&password=1234" (RelFrameId=1.1, Internal ID=6)
+..\\Parameters\\common_lib.h(64):     0\r\n
+..\\Parameters\\common_lib.h(64):     \r\n
+..\\Parameters\\common_lib.h(64): t=6002ms: Request done "http://localhost:1080/cgi-bin/nav.pl?username=kiks&password=1234"  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(64): t=6050ms: 215-byte response headers for "http://localhost:1080/cgi-bin/error.pl?error=badPassword" (RelFrameId=1.2, Internal ID=7)
+..\\Parameters\\common_lib.h(64):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common_lib.h(64):     Date: Thu, 18 May 2023 14:08:57 GMT\r\n
+..\\Parameters\\common_lib.h(64):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common_lib.h(64):     Keep-Alive: timeout=5, max=99\r\n
+..\\Parameters\\common_lib.h(64):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(64):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common_lib.h(64):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common_lib.h(64):     \r\n
+..\\Parameters\\common_lib.h(64): t=6050ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/error.pl?error=badPassword" (RelFrameId=1.2, Internal ID=7)
+..\\Parameters\\common_lib.h(64):     406\r\n
+..\\Parameters\\common_lib.h(64): t=6051ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/error.pl?error=badPassword" (RelFrameId=1.2, Internal ID=7)
+..\\Parameters\\common_lib.h(64):     \r\n
+..\\Parameters\\common_lib.h(64): t=6051ms: 1030-byte chunked response body for "http://localhost:1080/cgi-bin/error.pl?error=badPassword" (RelFrameId=1.2, Internal ID=7)
+..\\Parameters\\common_lib.h(64):     <!DOCTYPE html\n
+..\\Parameters\\common_lib.h(64):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\Parameters\\common_lib.h(64):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\Parameters\\common_lib.h(64):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\Parameters\\common_lib.h(64):     <head>\n
+..\\Parameters\\common_lib.h(64):     <title>Web Tours Error - Incorrect Password</title>\n
+..\\Parameters\\common_lib.h(64):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\Parameters\\common_lib.h(64):     </head>\n
+..\\Parameters\\common_lib.h(64):     <body bgcolor="#E0E7F1">\n
+..\\Parameters\\common_lib.h(64):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+..\\Parameters\\common_lib.h(64):     e : 22pt; color: #003366}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+..\\Parameters\\common_lib.h(64):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 8pt; color: black}
+..\\Parameters\\common_lib.h(64):     </style><BR><BR><h1>&nbsp;&nbsp;<b>Error</b></h1><blockquote><center><h3><font color=red>W
+..\\Parameters\\common_lib.h(64):     eb Tours Error - Incorrect Password</font></h3></center><blockquote>\n
+..\\Parameters\\common_lib.h(64):     The username/password combination you've entered is invalid.  \n
+..\\Parameters\\common_lib.h(64):      Please double check your entry.  If it still does not work, you might \n
+..\\Parameters\\common_lib.h(64):      need to re-register with our site. <p /> Thank you for your patience.\n
+..\\Parameters\\common_lib.h(64):     </blockquote>\n
+..\\Parameters\\common_lib.h(64):     </body>\n
+..\\Parameters\\common_lib.h(64):     </html>
+..\\Parameters\\common_lib.h(64): t=6052ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/error.pl?error=badPassword" (RelFrameId=1.2, Internal ID=7)
+..\\Parameters\\common_lib.h(64):     0\r\n
+..\\Parameters\\common_lib.h(64):     \r\n
+..\\Parameters\\common_lib.h(64): t=6052ms: Request done "http://localhost:1080/cgi-bin/error.pl?error=badPassword"  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(64): Error -26366: "Text=User password was correct" not found for web_reg_find  	[MsgId: MERR-26366]
+..\\Parameters\\common_lib.h(64): Error -26366: "Text=Welcome, <b>kiks</b>, to the Web Tours" not found for web_reg_find  	[MsgId: MERR-26366]
+..\\Parameters\\common_lib.h(64): web_submit_data("login.pl") highest severity level was "ERROR", 2977 body bytes, 700 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26387]
+..\\Parameters\\common_lib.h(64): Notify: Transaction "log_in" ended with a "Fail" status (Duration: 0,1365 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\Parameters\\common_lib.h(64): Notify: Transaction "log_in" has 2 error message(s).	[MsgId: MMSG-16818]
+..\\Parameters\\common_lib.h(64): Notify: The 1st error message associated with transaction "log_in" is "Error -26366: "Text=User password was correct" not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\Parameters\\common_lib.h(64): Notify: The 2nd error message associated with transaction "log_in" is "Error -26366: "Text=Welcome, <b>kiks</b>, to the Web Tours" not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\Parameters\\common_lib.h(64): Notify: Transaction "03_Log_in_Log_out" ended with a "Fail" status (Duration: 5,2877 Think Time: 5,0099 Wasted Time: 0,0206).	[MsgId: MMSG-16870]
+..\\Parameters\\common_lib.h(64): Notify: Transaction "03_Log_in_Log_out" has 2 error message(s).	[MsgId: MMSG-16818]
+..\\Parameters\\common_lib.h(64): Notify: The 1st error message associated with transaction "03_Log_in_Log_out" is "Error -26366: "Text=User password was correct" not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\Parameters\\common_lib.h(64): Notify: The 2nd error message associated with transaction "03_Log_in_Log_out" is "Error -26366: "Text=Welcome, <b>kiks</b>, to the Web Tours" not found for web_reg_find"	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+..\\Parameters\\common_lib.h(64): t=6053ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(64): t=6053ms: Closed connection [1] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=6, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 0 (thread 2988), ended OK."	[MsgId: MMSG-10695]

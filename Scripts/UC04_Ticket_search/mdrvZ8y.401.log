@@ -1,0 +1,368 @@
+..\\Parameters\\common_lib.h(137):     e0c\r\n
+..\\Parameters\\common_lib.h(137): t=1796466ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=987)
+..\\Parameters\\common_lib.h(137):     \r\n
+..\\Parameters\\common_lib.h(137): t=1796466ms: 3596-byte chunked response body for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=987)
+..\\Parameters\\common_lib.h(137):     <!DOCTYPE html\n
+..\\Parameters\\common_lib.h(137):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\Parameters\\common_lib.h(137):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\Parameters\\common_lib.h(137):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\Parameters\\common_lib.h(137):     <head>\n
+..\\Parameters\\common_lib.h(137):     <title>Flight Selections</title>\n
+..\\Parameters\\common_lib.h(137):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\Parameters\\common_lib.h(137):     </head>\n
+..\\Parameters\\common_lib.h(137):     <body bgcolor="#E0E7F1">\n
+..\\Parameters\\common_lib.h(137):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+..\\Parameters\\common_lib.h(137):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+..\\Parameters\\common_lib.h(137):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black
+..\\Parameters\\common_lib.h(137):     }</style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Find Flight</font></b></h1><bl
+..\\Parameters\\common_lib.h(137):     ockquote>\n
+..\\Parameters\\common_lib.h(137):     <form method="post" action="reservations.pl" enctype="application/x-www-form-urlencoded">\n
+..\\Parameters\\common_lib.h(137):     \n
+..\\Parameters\\common_lib.h(137):     <center>\n
+..\\Parameters\\common_lib.h(137):     <!-- From Denver (0) To Zurich (9) -->\n
+..\\Parameters\\common_lib.h(137):     <table cellspacing="2" border="0" width="50%">\n
+..\\Parameters\\common_lib.h(137):     <blockquote>Flight departing from <B>Denver</B> to <B>Zurich</B> on <B>03/05/2023</B><BR/>
+..\\Parameters\\common_lib.h(137):     <BR/><tr bgcolor="#5E7884"><td align="center"><font color="white"><B>Flight</B></font>\n
+..\\Parameters\\common_lib.h(137):           \t\t<td align="center"><font color="white"><B>Departure time</B>\n
+..\\Parameters\\common_lib.h(137):           \t\t<td align="center"><font color="white"><B>Cost</B>\n
+..\\Parameters\\common_lib.h(137):     <tr bgcolor="#EFF2F7"><td align="center"><input type="radio" name="outboundFlight" value="
+..\\Parameters\\common_lib.h(137):     090;610;03/05/2023" checked="checked" >Blue Sky Air 090<td align="center">8am<td align="ce
+..\\Parameters\\common_lib.h(137):     nter">$ 610</TD></TR><tr bgcolor="#EFF2F7"><td align="center"><input type="radio" name="ou
+..\\Parameters\\common_lib.h(137):     tboundFlight" value="091;544;03/05/2023">Blue Sky Air 091<td align="center">1pm<td align="
+..\\Parameters\\common_lib.h(137):     center">$ 544</TD></TR><tr bgcolor="#EFF2F7"><td align="center"><input type="radio" name="
+..\\Parameters\\common_lib.h(137):     outboundFlight" value="092;577;03/05/2023">Blue Sky Air 092<td align="center">5pm<td align
+..\\Parameters\\common_lib.h(137):     ="center">$ 577</TD></TR><tr bgcolor="#EFF2F7"><td align="center"><input type="radio" name
+..\\Parameters\\common_lib.h(137):     ="outboundFlight" value="093;499;03/05/2023">Blue Sky Air 093<td align="center">11pm<td al
+..\\Parameters\\common_lib.h(137):     ign="center">$ 499</TD></TR></table>\n
+..\\Parameters\\common_lib.h(137):     \n
+..\\Parameters\\common_lib.h(137):     <P>\n
+..\\Parameters\\common_lib.h(137):     <!-- From Zurich (9) To Denver (0) -->\n
+..\\Parameters\\common_lib.h(137):     <table cellspacing="2" border="0" width="50%">\n
+..\\Parameters\\common_lib.h(137):     <blockquote>Flight departing from <B>Zurich</B> to <B>Denver</B> on <B>04/05/2023</B><BR/>
+..\\Parameters\\common_lib.h(137):     <BR/><tr bgcolor="#5E7884"><td align="center"><font color="white"><B>Flight</B></font>\n
+..\\Parameters\\common_lib.h(137):           \t\t<td align="center"><font color="white"><B>Departure time</B>\n
+..\\Parameters\\common_lib.h(137):           \t\t<td align="center"><font color="white"><B>Cost</B>\n
+..\\Parameters\\common_lib.h(137):     <tr bgcolor="#EFF2F7"><td align="center"><input type="radio" name="returnFlight" value="90
+..\\Parameters\\common_lib.h(137):     0;610;04/05/2023" checked="checked" >Blue Sky Air 900<td align="center">8am<td align="cent
+..\\Parameters\\common_lib.h(137):     er">$ 610</TD></TR><tr bgcolor="#EFF2F7"><td align="center"><input type="radio" name="retu
+..\\Parameters\\common_lib.h(137):     rnFlight" value="901;544;04/05/2023">Blue Sky Air 901<td align="center">1pm<td align="cent
+..\\Parameters\\common_lib.h(137):     er">$ 544</TD></TR><tr bgcolor="#EFF2F7"><td align="center"><input type="radio" name="retu
+..\\Parameters\\common_lib.h(137):     rnFlight" value="902;577;04/05/2023">Blue Sky Air 902<td align="center">5pm<td align="cent
+..\\Parameters\\common_lib.h(137):     er">$ 577</TD></TR><tr bgcolor="#EFF2F7"><td align="center"><input type="radio" name="retu
+..\\Parameters\\common_lib.h(137):     rnFlight" value="903;499;04/05/2023">Blue Sky Air 903<td align="center">11pm<td align="cen
+..\\Parameters\\common_lib.h(137):     ter">$ 499</TD></TR></table>\n
+..\\Parameters\\common_lib.h(137):     \n
+..\\Parameters\\common_lib.h(137):     <input type="hidden" name="numPassengers" value="{countPass}"  /><input type="hidden" name
+..\\Parameters\\common_lib.h(137):     ="advanceDiscount" value="0"  /><input type="hidden" name="seatType" value="Business"  /><
+..\\Parameters\\common_lib.h(137):     input type="hidden" name="seatPref" value="Window"  />\n
+..\\Parameters\\common_lib.h(137):     <P><center><table width=80% cellspacing=1><tr><td align=center>\n
+..\\Parameters\\common_lib.h(137):     <input type="image" name="reserveFlights" src="/WebTours/images/button_next.gif" border="0
+..\\Parameters\\common_lib.h(137):     " />\n
+..\\Parameters\\common_lib.h(137):     <td>&nbsp;<td align=center></table></center></form></center>\n
+..\\Parameters\\common_lib.h(137):     </blockquote>\n
+..\\Parameters\\common_lib.h(137):     \n
+..\\Parameters\\common_lib.h(137):     </body>\n
+..\\Parameters\\common_lib.h(137):     </html>
+..\\Parameters\\common_lib.h(137): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\common_lib.h(137): t=1796468ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=987)
+..\\Parameters\\common_lib.h(137):     0\r\n
+..\\Parameters\\common_lib.h(137):     \r\n
+..\\Parameters\\common_lib.h(137): Notify: Saving Parameter "outboundFlight = 092;577;03/05/2023".	[MsgId: MMSG-13798]
+..\\Parameters\\common_lib.h(137): Notify: Saving Parameter "returnFlight = 902;577;04/05/2023".	[MsgId: MMSG-13798]
+..\\Parameters\\common_lib.h(137): t=1796468ms: Request done "http://localhost:1080/cgi-bin/reservations.pl"  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(137): Notify: Saving Parameter "outboundFlight = 090;610;03/05/2023".	[MsgId: MMSG-13798]
+..\\Parameters\\common_lib.h(137): Notify: Saving Parameter "returnFlight = 900;610;04/05/2023".	[MsgId: MMSG-13798]
+..\\Parameters\\common_lib.h(137): Registered web_reg_find successful for "Text=from <B>Denver</B> to <B>Zurich</B> on <B>03/05/2023</B>" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\common_lib.h(137): Registered web_reg_find successful for "Text=from <B>Zurich</B> to <B>Denver</B> on <B>04/05/2023</B>" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\common_lib.h(137): Registered web_reg_find successful for "Text=name="seatType" value="Business"  /><input type="hidden" name="seatPref" value="Window"" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\common_lib.h(137): web_submit_data("reservations.pl") was successful, 3596 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\common_lib.h(162): Notify: Transaction "find_flight" ended with a "Pass" status (Duration: 0,5061 Wasted Time: 0,0004).	[MsgId: MMSG-16871]
+Action.c(67): lr_think_time: 2,00 seconds.	[MsgId: MMSG-15948]
+..\\Parameters\\common_lib.h(166): Notify: Transaction "flight_selection" started.	[MsgId: MMSG-16999]
+..\\Parameters\\common_lib.h(168): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(168): Notify: Next row for parameter first_name = 3 [table  = first_name].	[MsgId: MMSG-13876]
+..\\Parameters\\common_lib.h(168): Notify: Parameter Substitution: parameter "first_name" =  "Sergei"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(168): Notify: Next row for parameter last_name = 3 [table  = last_name].	[MsgId: MMSG-13876]
+..\\Parameters\\common_lib.h(168): Notify: Parameter Substitution: parameter "last_name" =  "Sergeevic"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(168): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common_lib.h(171): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(171): Notify: Parameter Substitution: parameter "outboundFlight" =  "450;1165;05/05/2023"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(171): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common_lib.h(174): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(174): Notify: Parameter Substitution: parameter "returnFlight" =  "540;1165;06/05/2023"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(174): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common_lib.h(177): web_submit_data("reservations.pl_2") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(177): Notify: Parameter Substitution: parameter "outboundFlight" =  "450;1165;05/05/2023"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(177): Notify: Parameter Substitution: parameter "returnFlight" =  "540;1165;06/05/2023"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(177): Warning: The string 'countPass' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+..\\Parameters\\common_lib.h(177): Notify: Next row for parameter type_of_seat = 3 [table  = type_of_seat].	[MsgId: MMSG-13876]
+..\\Parameters\\common_lib.h(177): Notify: Parameter Substitution: parameter "type_of_seat" =  "First"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(177): Notify: Next row for parameter seating_preference = 3 [table  = seating_preference].	[MsgId: MMSG-13876]
+..\\Parameters\\common_lib.h(177): Notify: Parameter Substitution: parameter "seating_preference" =  "Aisle"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(177): t=1797189ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(177): t=1797189ms: 852-byte request headers for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1007)
+..\\Parameters\\common_lib.h(177):     POST /cgi-bin/reservations.pl HTTP/1.1\r\n
+..\\Parameters\\common_lib.h(177):     Content-Type: application/x-www-form-urlencoded\r\n
+..\\Parameters\\common_lib.h(177):     Referer: http://localhost:1080/cgi-bin/reservations.pl\r\n
+..\\Parameters\\common_lib.h(177):     Sec-Fetch-Dest: frame\r\n
+..\\Parameters\\common_lib.h(177):     Sec-Fetch-Mode: navigate\r\n
+..\\Parameters\\common_lib.h(177):     Sec-Fetch-Site: same-origin\r\n
+..\\Parameters\\common_lib.h(177):     Upgrade-Insecure-Requests: 1\r\n
+..\\Parameters\\common_lib.h(177):     sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"\r\n
+..\\Parameters\\common_lib.h(177):     sec-ch-ua-mobile: ?0\r\n
+..\\Parameters\\common_lib.h(177):     sec-ch-ua-platform: "Windows"\r\n
+..\\Parameters\\common_lib.h(177):     Origin: http://localhost:1080\r\n
+..\\Parameters\\common_lib.h(177):     Sec-Fetch-User: ?1\r\n
+..\\Parameters\\common_lib.h(177):     User-Agent: Crashpad/0.8.0 WinHTTP/10.0.19041.2673 Windows_NT/10.0.19041.2788 (x64)\r\n
+..\\Parameters\\common_lib.h(177):     Accept-Encoding: gzip, deflate, br\r\n
+..\\Parameters\\common_lib.h(177):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+..\\Parameters\\common_lib.h(177):     Accept: */*\r\n
+..\\Parameters\\common_lib.h(177):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(177):     Host: localhost:1080\r\n
+..\\Parameters\\common_lib.h(177):     Cookie: MSO=SID&1684600043; MTUserInfo=firstName&Sergei&address2&Barnaul&username&kuks&has
+..\\Parameters\\common_lib.h(177):     h&19&lastName&Sergeevic%0A&address1&Gagarina&creditCard&&expDate&%0A\r\n
+..\\Parameters\\common_lib.h(177):     Content-Length: 200\r\n
+..\\Parameters\\common_lib.h(177):     \r\n
+..\\Parameters\\common_lib.h(177): t=1797189ms: 200-byte request body for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1007)
+..\\Parameters\\common_lib.h(177):     outboundFlight=450%3B1165%3B05%2F05%2F2023&returnFlight=540%3B1165%3B06%2F05%2F2023&numPas
+..\\Parameters\\common_lib.h(177):     sengers=%7BcountPass%7D&advanceDiscount=0&seatType=First&seatPref=Aisle&reserveFlights.x=5
+..\\Parameters\\common_lib.h(177):     1&reserveFlights.y=8
+..\\Parameters\\common_lib.h(177): t=1797241ms: 255-byte response headers for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1007)
+..\\Parameters\\common_lib.h(177):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common_lib.h(177):     Date: Sat, 20 May 2023 16:27:31 GMT\r\n
+..\\Parameters\\common_lib.h(177):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common_lib.h(177):     Expires: Fri, 19 May 2023 16:27:31 GMT\r\n
+..\\Parameters\\common_lib.h(177):     Keep-Alive: timeout=5, max=92\r\n
+..\\Parameters\\common_lib.h(177):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(177):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common_lib.h(177):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common_lib.h(177):     \r\n
+..\\Parameters\\common_lib.h(177): t=1797241ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1007)
+..\\Parameters\\common_lib.h(177):     ade\r\n
+..\\Parameters\\common_lib.h(177): t=1797241ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1007)
+..\\Parameters\\common_lib.h(177):     \r\n
+..\\Parameters\\common_lib.h(177): t=1797241ms: 2782-byte chunked response body for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1007)
+..\\Parameters\\common_lib.h(177):     <!DOCTYPE html\n
+..\\Parameters\\common_lib.h(177):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\Parameters\\common_lib.h(177):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\Parameters\\common_lib.h(177):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\Parameters\\common_lib.h(177):     <head>\n
+..\\Parameters\\common_lib.h(177):     <title>Flight Reservation</title>\n
+..\\Parameters\\common_lib.h(177):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\Parameters\\common_lib.h(177):     </head>\n
+..\\Parameters\\common_lib.h(177):     <body bgcolor="#E0E7F1">\n
+..\\Parameters\\common_lib.h(177):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+..\\Parameters\\common_lib.h(177):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+..\\Parameters\\common_lib.h(177):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black
+..\\Parameters\\common_lib.h(177):     }</style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Payment Details</font></b></h1
+..\\Parameters\\common_lib.h(177):     ><blockquote><form method="post" action="reservations.pl" enctype="application/x-www-form-
+..\\Parameters\\common_lib.h(177):     urlencoded" onsubmit="return true ;">\n
+..\\Parameters\\common_lib.h(177):     <table><tr><td align="right">First Name : <td><input type="text" name="firstName" value="S
+..\\Parameters\\common_lib.h(177):     ergei" size="15" /><tr><td align="right">Last Name : <td><input type="text" name="lastName
+..\\Parameters\\common_lib.h(177):     " value="Sergeevic&#10;" size="15" /><tr><td align="right">Street Address : <td colspan="3
+..\\Parameters\\common_lib.h(177):     "><input type="text" name="address1" value="Gagarina" size="30" /><tr><td align="right">Ci
+..\\Parameters\\common_lib.h(177):     ty/State/Zip : <td colspan="3"><input type="text" name="address2" value="Barnaul" size="30
+..\\Parameters\\common_lib.h(177):     " /><tr><td align="right">Passenger Names : <td colspan="3"><input type="text" name="pass1
+..\\Parameters\\common_lib.h(177):     " value="Sergei Sergeevic&#10;" size="30" /><tr><td height="10"><tr><td height="10" align=
+..\\Parameters\\common_lib.h(177):     "center" colspan="4">Total for {countPass} ticket(s) is = $ 0<tr><td align="right">Credit 
+..\\Parameters\\common_lib.h(177):     Card : <td><input type="text" name="creditCard"  size="20" maxlength="20" /><td align="rig
+..\\Parameters\\common_lib.h(177):     ht">Exp Date : <td><input type="text" name="expDate" value="&#10;" size="5" maxlength="5" 
+..\\Parameters\\common_lib.h(177):     /><tr><TD><td colspan="3" align="left"><label><input type="checkbox" name="saveCC" value="
+..\\Parameters\\common_lib.h(177):     on" />Save this Credit Card Information</label><input type="hidden" name="oldCCOption" val
+..\\Parameters\\common_lib.h(177):     ue=""  /></table><input type="hidden" name="numPassengers" value="{countPass}"  /><input t
+..\\Parameters\\common_lib.h(177):     ype="hidden" name="seatType" value="First"  /><input type="hidden" name="seatPref" value="
+..\\Parameters\\common_lib.h(177):     Aisle"  /><input type="hidden" name="outboundFlight" value="450;1165;05/05/2023"  /><input
+..\\Parameters\\common_lib.h(177):      type="hidden" name="advanceDiscount" value="0"  /><input type="hidden" name="returnFlight
+..\\Parameters\\common_lib.h(177):     " value="540;1165;06/05/2023"  /><input type="hidden" name="JSFormSubmit" value="off"  /><
+..\\Parameters\\common_lib.h(177):     center><table width=80% cellspacing=1><tr><td align=center>\n
+..\\Parameters\\common_lib.h(177):     <input type="image" name="buyFlights" src="/WebTours/images/button_next.gif" border="0" />
+..\\Parameters\\common_lib.h(177):     <div><input type="hidden" name=".cgifields" value="saveCC"  /></div></form>\n
+..\\Parameters\\common_lib.h(177):     <td>&nbsp;<td align=center><form method="post" action="reservations.pl" enctype="applicati
+..\\Parameters\\common_lib.h(177):     on/x-www-form-urlencoded" onsubmit="void(0);">\n
+..\\Parameters\\common_lib.h(177):     </form></table></center></blockquote>\n
+..\\Parameters\\common_lib.h(177):     </body>\n
+..\\Parameters\\common_lib.h(177):     </html>
+..\\Parameters\\common_lib.h(177): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\common_lib.h(177): t=1797243ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1007)
+..\\Parameters\\common_lib.h(177):     0\r\n
+..\\Parameters\\common_lib.h(177):     \r\n
+..\\Parameters\\common_lib.h(177): t=1797244ms: Request done "http://localhost:1080/cgi-bin/reservations.pl"  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(177): Registered web_reg_find successful for "Text=value="Sergei Sergeevic&" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\common_lib.h(177): Registered web_reg_find successful for "Text="outboundFlight" value="450;1165;05/05/2023"" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\common_lib.h(177): Registered web_reg_find successful for "Text="returnFlight" value="540;1165;06/05/2023"" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\common_lib.h(177): web_submit_data("reservations.pl_2") was successful, 2782 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\common_lib.h(196): Notify: Transaction "flight_selection" ended with a "Pass" status (Duration: 0,0561 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(71): Notify: Transaction "04_Ticket search" ended with a "Pass" status (Duration: 8,6625 Think Time: 8,0451 Wasted Time: 0,0016).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 53.	[MsgId: MMSG-15965]
+Waiting 25,3370 seconds for iteration pacing.	[MsgId: MMSG-15996]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=1797580ms: Closed connection [0] to localhost:1080 after completing 9 request(s)  	[MsgId: MMSG-26000]
+t=1797580ms: Closed connection [1] to localhost:1080 after completing 10 request(s)  	[MsgId: MMSG-26000]
+Action was aborted.	[MsgId: MMSG-10694]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=1797580ms: Closed connection [0] to localhost:1080 after completing 9 request(s)  	[MsgId: MMSG-26000]
+t=1797580ms: Closed connection [1] to localhost:1080 after completing 10 request(s)  	[MsgId: MMSG-26000]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=1797581ms: Closed connection [0] to localhost:1080 after completing 9 request(s)  	[MsgId: MMSG-26000]
+t=1797581ms: Closed connection [1] to localhost:1080 after completing 10 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 3 (thread 4916), ended OK."	[MsgId: MMSG-10695]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=1797618ms: Closed connection [0] to localhost:1080 after completing 9 request(s)  	[MsgId: MMSG-26000]
+t=1797619ms: Closed connection [1] to localhost:1080 after completing 10 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 0 (thread 4524), ended OK."	[MsgId: MMSG-10695]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=1797628ms: Closed connection [0] to localhost:1080 after completing 8 request(s)  	[MsgId: MMSG-26000]
+t=1797629ms: Closed connection [1] to localhost:1080 after completing 11 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 4 (thread 1192), ended OK."	[MsgId: MMSG-10695]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 2 (thread 7032), ended OK."	[MsgId: MMSG-10695]
+Vuser 1 (thread 10560), ended OK."	[MsgId: MMSG-10695]
+..\\Parameters\\common_lib.h(166): Notify: Transaction "flight_selection" started.	[MsgId: MMSG-16999]
+..\\Parameters\\common_lib.h(168): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(168): Notify: Next row for parameter first_name = 2 [table  = first_name].	[MsgId: MMSG-13876]
+..\\Parameters\\common_lib.h(168): Notify: Parameter Substitution: parameter "first_name" =  "Ivan"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(168): Notify: Next row for parameter last_name = 2 [table  = last_name].	[MsgId: MMSG-13876]
+..\\Parameters\\common_lib.h(168): Notify: Parameter Substitution: parameter "last_name" =  "Ivanov"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(168): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common_lib.h(171): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(171): Notify: Parameter Substitution: parameter "outboundFlight" =  "090;610;03/05/2023"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(171): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common_lib.h(174): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(174): Notify: Parameter Substitution: parameter "returnFlight" =  "900;610;04/05/2023"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(174): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common_lib.h(177): web_submit_data("reservations.pl_2") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common_lib.h(177): Notify: Parameter Substitution: parameter "outboundFlight" =  "090;610;03/05/2023"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(177): Notify: Parameter Substitution: parameter "returnFlight" =  "900;610;04/05/2023"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(177): Warning: The string 'countPass' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+..\\Parameters\\common_lib.h(177): Notify: Next row for parameter type_of_seat = 2 [table  = type_of_seat].	[MsgId: MMSG-13876]
+..\\Parameters\\common_lib.h(177): Notify: Parameter Substitution: parameter "type_of_seat" =  "Business"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(177): Notify: Next row for parameter seating_preference = 2 [table  = seating_preference].	[MsgId: MMSG-13876]
+..\\Parameters\\common_lib.h(177): Notify: Parameter Substitution: parameter "seating_preference" =  "Window"	[MsgId: MMSG-13992]
+..\\Parameters\\common_lib.h(177): t=1798479ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(177): t=1798479ms: 841-byte request headers for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=988)
+..\\Parameters\\common_lib.h(177):     POST /cgi-bin/reservations.pl HTTP/1.1\r\n
+..\\Parameters\\common_lib.h(177):     Content-Type: application/x-www-form-urlencoded\r\n
+..\\Parameters\\common_lib.h(177):     Referer: http://localhost:1080/cgi-bin/reservations.pl\r\n
+..\\Parameters\\common_lib.h(177):     Sec-Fetch-Dest: frame\r\n
+..\\Parameters\\common_lib.h(177):     Sec-Fetch-Mode: navigate\r\n
+..\\Parameters\\common_lib.h(177):     Sec-Fetch-Site: same-origin\r\n
+..\\Parameters\\common_lib.h(177):     Upgrade-Insecure-Requests: 1\r\n
+..\\Parameters\\common_lib.h(177):     sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"\r\n
+..\\Parameters\\common_lib.h(177):     sec-ch-ua-mobile: ?0\r\n
+..\\Parameters\\common_lib.h(177):     sec-ch-ua-platform: "Windows"\r\n
+..\\Parameters\\common_lib.h(177):     Origin: http://localhost:1080\r\n
+..\\Parameters\\common_lib.h(177):     Sec-Fetch-User: ?1\r\n
+..\\Parameters\\common_lib.h(177):     User-Agent: Crashpad/0.8.0 WinHTTP/10.0.19041.2673 Windows_NT/10.0.19041.2788 (x64)\r\n
+..\\Parameters\\common_lib.h(177):     Accept-Encoding: gzip, deflate, br\r\n
+..\\Parameters\\common_lib.h(177):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+..\\Parameters\\common_lib.h(177):     Accept: */*\r\n
+..\\Parameters\\common_lib.h(177):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(177):     Host: localhost:1080\r\n
+..\\Parameters\\common_lib.h(177):     Cookie: MSO=SID&1684600044; MTUserInfo=firstName&Ivan&address2&Ufa&username&koks&hash&19&l
+..\\Parameters\\common_lib.h(177):     astName&Ivanov%0A&address1&Lenina&creditCard&&expDate&%0A\r\n
+..\\Parameters\\common_lib.h(177):     Content-Length: 202\r\n
+..\\Parameters\\common_lib.h(177):     \r\n
+..\\Parameters\\common_lib.h(177): t=1798480ms: 202-byte request body for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=988)
+..\\Parameters\\common_lib.h(177):     outboundFlight=090%3B610%3B03%2F05%2F2023&returnFlight=900%3B610%3B04%2F05%2F2023&numPasse
+..\\Parameters\\common_lib.h(177):     ngers=%7BcountPass%7D&advanceDiscount=0&seatType=Business&seatPref=Window&reserveFlights.x
+..\\Parameters\\common_lib.h(177):     =51&reserveFlights.y=8
+..\\Parameters\\common_lib.h(177): t=1798538ms: 255-byte response headers for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=988)
+..\\Parameters\\common_lib.h(177):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common_lib.h(177):     Date: Sat, 20 May 2023 16:27:33 GMT\r\n
+..\\Parameters\\common_lib.h(177):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common_lib.h(177):     Expires: Fri, 19 May 2023 16:27:33 GMT\r\n
+..\\Parameters\\common_lib.h(177):     Keep-Alive: timeout=5, max=93\r\n
+..\\Parameters\\common_lib.h(177):     Connection: Keep-Alive\r\n
+..\\Parameters\\common_lib.h(177):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common_lib.h(177):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common_lib.h(177):     \r\n
+..\\Parameters\\common_lib.h(177): t=1798538ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=988)
+..\\Parameters\\common_lib.h(177):     ad0\r\n
+..\\Parameters\\common_lib.h(177): t=1798538ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=988)
+..\\Parameters\\common_lib.h(177):     \r\n
+..\\Parameters\\common_lib.h(177): t=1798539ms: 2768-byte chunked response body for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=988)
+..\\Parameters\\common_lib.h(177):     <!DOCTYPE html\n
+..\\Parameters\\common_lib.h(177):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\Parameters\\common_lib.h(177):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\Parameters\\common_lib.h(177):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\Parameters\\common_lib.h(177):     <head>\n
+..\\Parameters\\common_lib.h(177):     <title>Flight Reservation</title>\n
+..\\Parameters\\common_lib.h(177):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\Parameters\\common_lib.h(177):     </head>\n
+..\\Parameters\\common_lib.h(177):     <body bgcolor="#E0E7F1">\n
+..\\Parameters\\common_lib.h(177):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+..\\Parameters\\common_lib.h(177):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+..\\Parameters\\common_lib.h(177):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black
+..\\Parameters\\common_lib.h(177):     }</style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Payment Details</font></b></h1
+..\\Parameters\\common_lib.h(177):     ><blockquote><form method="post" action="reservations.pl" enctype="application/x-www-form-
+..\\Parameters\\common_lib.h(177):     urlencoded" onsubmit="return true ;">\n
+..\\Parameters\\common_lib.h(177):     <table><tr><td align="right">First Name : <td><input type="text" name="firstName" value="I
+..\\Parameters\\common_lib.h(177):     van" size="15" /><tr><td align="right">Last Name : <td><input type="text" name="lastName" 
+..\\Parameters\\common_lib.h(177):     value="Ivanov&#10;" size="15" /><tr><td align="right">Street Address : <td colspan="3"><in
+..\\Parameters\\common_lib.h(177):     put type="text" name="address1" value="Lenina" size="30" /><tr><td align="right">City/Stat
+..\\Parameters\\common_lib.h(177):     e/Zip : <td colspan="3"><input type="text" name="address2" value="Ufa" size="30" /><tr><td
+..\\Parameters\\common_lib.h(177):      align="right">Passenger Names : <td colspan="3"><input type="text" name="pass1" value="Iv
+..\\Parameters\\common_lib.h(177):     an Ivanov&#10;" size="30" /><tr><td height="10"><tr><td height="10" align="center" colspan
+..\\Parameters\\common_lib.h(177):     ="4">Total for {countPass} ticket(s) is = $ 0<tr><td align="right">Credit Card : <td><inpu
+..\\Parameters\\common_lib.h(177):     t type="text" name="creditCard"  size="20" maxlength="20" /><td align="right">Exp Date : <
+..\\Parameters\\common_lib.h(177):     td><input type="text" name="expDate" value="&#10;" size="5" maxlength="5" /><tr><TD><td co
+..\\Parameters\\common_lib.h(177):     lspan="3" align="left"><label><input type="checkbox" name="saveCC" value="on" />Save this 
+..\\Parameters\\common_lib.h(177):     Credit Card Information</label><input type="hidden" name="oldCCOption" value=""  /></table
+..\\Parameters\\common_lib.h(177):     ><input type="hidden" name="numPassengers" value="{countPass}"  /><input type="hidden" nam
+..\\Parameters\\common_lib.h(177):     e="seatType" value="Business"  /><input type="hidden" name="seatPref" value="Window"  /><i
+..\\Parameters\\common_lib.h(177):     nput type="hidden" name="outboundFlight" value="090;610;03/05/2023"  /><input type="hidden
+..\\Parameters\\common_lib.h(177):     " name="advanceDiscount" value="0"  /><input type="hidden" name="returnFlight" value="900;
+..\\Parameters\\common_lib.h(177):     610;04/05/2023"  /><input type="hidden" name="JSFormSubmit" value="off"  /><center><table 
+..\\Parameters\\common_lib.h(177):     width=80% cellspacing=1><tr><td align=center>\n
+..\\Parameters\\common_lib.h(177):     <input type="image" name="buyFlights" src="/WebTours/images/button_next.gif" border="0" />
+..\\Parameters\\common_lib.h(177):     <div><input type="hidden" name=".cgifields" value="saveCC"  /></div></form>\n
+..\\Parameters\\common_lib.h(177):     <td>&nbsp;<td align=center><form method="post" action="reservations.pl" enctype="applicati
+..\\Parameters\\common_lib.h(177):     on/x-www-form-urlencoded" onsubmit="void(0);">\n
+..\\Parameters\\common_lib.h(177):     </form></table></center></blockquote>\n
+..\\Parameters\\common_lib.h(177):     </body>\n
+..\\Parameters\\common_lib.h(177):     </html>
+..\\Parameters\\common_lib.h(177): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\common_lib.h(177): t=1798543ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=988)
+..\\Parameters\\common_lib.h(177):     0\r\n
+..\\Parameters\\common_lib.h(177):     \r\n
+..\\Parameters\\common_lib.h(177): t=1798543ms: Request done "http://localhost:1080/cgi-bin/reservations.pl"  	[MsgId: MMSG-26000]
+..\\Parameters\\common_lib.h(177): Registered web_reg_find successful for "Text=value="Ivan Ivanov&" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\common_lib.h(177): Registered web_reg_find successful for "Text="outboundFlight" value="090;610;03/05/2023"" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\common_lib.h(177): Registered web_reg_find successful for "Text="returnFlight" value="900;610;04/05/2023"" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\common_lib.h(177): web_submit_data("reservations.pl_2") was successful, 2768 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\common_lib.h(196): Notify: Transaction "flight_selection" ended with a "Pass" status (Duration: 0,0654 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(71): Notify: Transaction "04_Ticket search" ended with a "Pass" status (Duration: 9,0715 Think Time: 8,0444 Wasted Time: 0,0014).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=1798544ms: Closed connection [0] to localhost:1080 after completing 8 request(s)  	[MsgId: MMSG-26000]
+t=1798544ms: Closed connection [1] to localhost:1080 after completing 11 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 5 (thread 8644), ended OK."	[MsgId: MMSG-10695]

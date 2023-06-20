@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>UC02_booking_a_ticket</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="UC02_booking_a_ticket.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="UC02_booking_a_ticket.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="combined_UC02_booking_a_ticket.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="02_booking_a_ticket.prm.bak" Filter="1" />
+    <FileEntry Name="124315645440.idx" Filter="1" />
+    <FileEntry Name="132675428440.idx" Filter="1" />
+    <FileEntry Name="154326672440.idx" Filter="1" />
+    <FileEntry Name="165532432440.idx" Filter="1" />
+    <FileEntry Name="20822068440.idx" Filter="1" />
+    <FileEntry Name="253660771440.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="custom_body_variables.txt" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="lrw_custom_body.h" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv1Jh.69.log" Filter="1" />
+    <FileEntry Name="mdrv8Jx.825.log" Filter="1" />
+    <FileEntry Name="mdrv8L4.69.log" Filter="1" />
+    <FileEntry Name="mdrv9LZ.583.log" Filter="1" />
+    <FileEntry Name="mdrvAyd.383.log" Filter="1" />
+    <FileEntry Name="mdrvckM.905.log" Filter="1" />
+    <FileEntry Name="mdrvdJj.839.log" Filter="1" />
+    <FileEntry Name="mdrvFFc.247.log" Filter="1" />
+    <FileEntry Name="mdrvFkv.969.log" Filter="1" />
+    <FileEntry Name="mdrvftD.555.log" Filter="1" />
+    <FileEntry Name="mdrvfz2.721.log" Filter="1" />
+    <FileEntry Name="mdrvHmq.5.log" Filter="1" />
+    <FileEntry Name="mdrvkvn.619.log" Filter="1" />
+    <FileEntry Name="mdrvmLI.647.log" Filter="1" />
+    <FileEntry Name="mdrvoYv.493.log" Filter="1" />
+    <FileEntry Name="mdrvPWW.849.log" Filter="1" />
+    <FileEntry Name="mdrvQ2M.33.log" Filter="1" />
+    <FileEntry Name="mdrvrAM.139.log" Filter="1" />
+    <FileEntry Name="mdrvrhb.41.log" Filter="1" />
+    <FileEntry Name="mdrvSNU.499.log" Filter="1" />
+    <FileEntry Name="mdrvUnp.771.log" Filter="1" />
+    <FileEntry Name="mdrvusH.211.log" Filter="1" />
+    <FileEntry Name="mdrvVny.91.log" Filter="1" />
+    <FileEntry Name="mdrvvpg.815.log" Filter="1" />
+    <FileEntry Name="mdrvXjN.99.log" Filter="1" />
+    <FileEntry Name="mdrvzlI.841.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UC#02_booking_a_ticket.prm.bak" Filter="1" />
+    <FileEntry Name="UC02_booking_a_ticket.c.pickle" Filter="1" />
+    <FileEntry Name="UC02_booking_a_ticket.ci" Filter="1" />
+    <FileEntry Name="UC02_booking_a_ticket.prm.bak" Filter="1" />
+    <FileEntry Name="UC№02_booking_a_ticket.prm.bak" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="WebHttpHtml1.prm.bak" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>
